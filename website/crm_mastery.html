@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Estate CRM Mastery - Scott Schmitz</title>
+    <meta name="description"
+        content="Real Estate CRM Mastery: Advanced Systems for Top Agents to Automate & Dominate Their Market.">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+
+    <header class="site-header">
+        <div class="container header-container">
+            <nav class="site-nav">
+                <ul>
+                    <li><a href="index.html">CRM Secrets</a></li>
+                    <li><a href="crm_mastery.html" class="active">CRM Mastery</a></li>
+                    <li><a href="quick_picks.html">Quick Picks</a></li>
+                    <li><a href="resources.html">Resources</a></li>
+                    <li><a href="about.html">About</a></li>
+                </ul>
+            </nav>
+            <button class="mobile-menu-toggle" aria-label="Toggle navigation">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </button>
+        </div>
+    </header>
+
+    <main>
+        <section class="featured-book">
+            <div class="container">
+                <div class="book-container">
+                    <div class="book-cover">
+                        <img src="images/book_cover_image.png" alt="Real Estate CRM Mastery Book Cover"
+                            class="book-cover-image">
+                    </div>
+                    <div class="book-details">
+                        <h2>Real Estate CRM Mastery</h2>
+                        <h3 class="book-subtitle">
+                            Advanced Systems for Top Agents to Automate & Dominate Their Market</h3>
+
+                        <div class="book-description">
+                            <p>Taking your business to the next level requires more than just basic systems. In this
+                                advanced guide, you will discover how top-performing agents leverage automation to scale
+                                their operations, dominate their local markets, and reclaim their time.</p>
+                            <p class="book-inside-title">
+                                INSIDE, YOU'LL FIND:</p>
+                            <ul class="book-inside-list">
+                                <li>Advanced automation strategies for lead nurturing</li>
+                                <li>Systematizing your workflow for maximum efficiency</li>
+                                <li>Techniques to scale your business without burnout</li>
+                            </ul>
+                        </div>
+
+                        <p class="book-price">$12.99</p>
+
+                        <div class="book-actions" style="display: flex; gap: 1rem; flex-wrap: wrap;">
+                            <a href="#" class="btn btn-primary">Buy on Amazon</a>
+                            <a href="#" class="btn btn-secondary">Buy on IngramSpark</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; 2025 Scott Schmitz. All rights reserved.</p>
+            <div class="footer-links">
+                <a href="newsletter.html">Newsletter</a>
+                <a href="contact.html">Contact</a>
+                <a href="#">Privacy Policy</a>
+                <a href="#">Terms of Service</a>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        const toggle = document.querySelector('.mobile-menu-toggle');
+        const nav = document.querySelector('.site-nav');
+
+        if (toggle) {
+            toggle.addEventListener('click', () => {
+                nav.classList.toggle('active');
+            });
+        }
+    </script>
+</body>
+
+</html>
