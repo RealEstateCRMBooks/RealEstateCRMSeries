@@ -59,6 +59,10 @@
                                 <label for="message">Message</label>
                                 <textarea id="message" name="message" rows="5" placeholder="How can I help you?"
                                     required minlength="10" maxlength="3000"></textarea>
+                                <div id="char-count"
+                                    style="font-size: 0.85rem; color: #666; margin-top: 5px; text-align: right;">
+                                    <span id="current">0</span>/<span id="maximum">3000</span> characters (Min: 10)
+                                </div>
                             </div>
 
                             <!-- Spam Protection: Honeypot field (hidden) -->
@@ -115,6 +119,36 @@
                 nav.classList.toggle('active');
             });
         }
+
+        // Character Counter & Validation Logic
+        const messageInput = document.getElementById('message');
+        const currentCount = document.getElementById('current');
+        const charCountText = document.getElementById('char-count');
+        const submitBtn = document.querySelector('button[type="submit"]');
+        const MIN_CHARS = 10;
+        const MAX_CHARS = 3000;
+
+        function updateCharacterCount() {
+            const length = messageInput.value.length;
+            currentCount.textContent = length;
+
+            // Visual feedback logic
+            if (length < MIN_CHARS) {
+                // Too short - show as warning/invalid
+                charCountText.style.color = '#dc3545'; // Red color
+                messageInput.style.borderColor = '#dc3545';
+            } else {
+                // Valid length - show as good
+                charCountText.style.color = '#28a745'; // Green color
+                messageInput.style.borderColor = '#ddd'; // Reset to default (or green if you prefer)
+            }
+        }
+
+        // Initialize on load (in case browser remembers text)
+        updateCharacterCount();
+
+        // Listen for typing
+        messageInput.addEventListener('input', updateCharacterCount);
     </script>
 </body>
 
