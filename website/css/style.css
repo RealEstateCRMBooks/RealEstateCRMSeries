@@ -107,14 +107,13 @@ img {
     color: var(--text-color);
 }
 
-.site-nav a:hover,
 .site-nav a.active {
-    color: var(--accent-color);
-}
-
-.site-nav a.highlight {
     color: var(--secondary-color);
     font-weight: 700;
+}
+
+.site-nav a:hover {
+    color: var(--accent-color);
 }
 
 /* Mobile Menu Toggle */
@@ -872,4 +871,63 @@ img {
     border-radius: 4px;
     margin-bottom: 1.25rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Compact Grid for Resources Page */
+.compact-grid {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.5rem;
+}
+
+.compact-grid .book-card {
+    padding: 1rem;
+}
+
+.compact-grid .book-card-title {
+    font-size: 1rem;
+}
+
+.compact-grid .book-card-image {
+    margin-bottom: 0.75rem;
+}
+
+/* Secrets Grid */
+.secrets-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+    padding-bottom: 3rem;
+}
+
+.secret-item {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    border: 1px solid var(--border-color);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.secret-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    border-color: var(--accent-color);
+}
+
+.secret-item h3 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #f4f6f7;
+}
+
+.secret-name {
+    color: var(--secondary-color);
+}
+
+.secret-item p {
+    font-size: 1rem;
+    color: var(--light-text-color);
+    line-height: 1.6;
+    margin-bottom: 0;
 }
