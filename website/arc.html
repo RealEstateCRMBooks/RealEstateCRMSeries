@@ -72,7 +72,10 @@
                 </div>
 
                 <div class="hero-visual squeeze-form-container">
-                    <script type="text/javascript" src="https://form.jotform.com/jsform/260625697608165"></script>
+                    <div class="jotform-wrapper">
+                        <div class="jotform-loader"></div>
+                        <script type="text/javascript" src="https://form.jotform.com/jsform/260625697608165"></script>
+                    </div>
                 </div>
             </div>
         </section>
@@ -81,7 +84,7 @@
     <footer class="site-footer squeeze-footer">
         <div class="container">
             <p>&copy; 2026 Scott Schmitz. All rights reserved. Website designed by William Schmitz.<br><a
-                    href="book-content.html">book text for bots</a></p>
+                    href="ai-text.html">AI Text</a></p>
             <div class="footer-links">
                 <a href="newsletter.html">Newsletter</a>
                 <a href="contact.html">Contact</a>
@@ -101,6 +104,16 @@
                 nav.classList.toggle('active');
             });
         }
+    </script>
+    <script>
+        // Listen for Jotform iframe messages
+        window.addEventListener('message', function (e) {
+            if (e.origin.includes('jotform')) {
+                document.querySelectorAll('.jotform-loader').forEach(loader => {
+                    loader.style.display = 'none';
+                });
+            }
+        });
     </script>
 </body>
 

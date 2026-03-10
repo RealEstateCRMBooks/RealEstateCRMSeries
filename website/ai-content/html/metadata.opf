@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4f5a0fb4-99cd-4d76-88ce-48099ab34a14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">844faf23-5266-40ee-9764-a43c8ec37e94</dc:identifier>
+        <dc:title>Unknown</dc:title>
+        <dc:creator opf:file-as="Schmitz, Scott" opf:role="aut">Scott Schmitz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide/>
+</package>
