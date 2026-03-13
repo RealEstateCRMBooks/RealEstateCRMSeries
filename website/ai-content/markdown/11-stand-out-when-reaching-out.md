@@ -6,6 +6,9 @@ author: Scott Schmitz
 website: realEstateCRMSecrets.com
 ---
 
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMSecrets.com](https://realEstateCRMSecrets.com)
+
 # Stand Out When Reaching Out
 
 > “Never wait to follow up. Follow up now. It’s one of my little tricks to get attention. No one follows up faster than I do. And when you want to set up that follow-up meeting, propose dates that work for you. Don’t just ask if they’re free—take control of the destiny of your working relationship!”
@@ -43,19 +46,19 @@ You can even queue multiple text messages, enabling you to make several follow-u
 A second type of click-to-dial functionality uses a dedicated phone number provided by your CRM. With this setup, you still click to dial, but your CRM calls your mobile phone. When you answer, you're connected to the person you're calling. This creates a three-way call: you and the person you're calling are two parties, and your CRM acts as the third party connecting the call. When you click-to-dial this way, the phone number and caller ID the recipient sees are the ones registered in your CRM.
 
 > [!SECRET]
-> **Millennial Minute Secret**: Don’t forget to take advantage of the text message chat functionality of your CRM. Many people screen their calls, or can’t answer because they are at work. Around 75% of millennials prefer texting over calling, with that figure rising to 80% among Gen Z. Around 25% of this age group avoid answering the phone altogether[27].
+> **Millennial Minute Secret**: Don’t forget to take advantage of the text message chat functionality of your CRM. Many people screen their calls, or can’t answer because they are at work. Around 75% of millennials prefer texting over calling, with that figure rising to 80% among Gen Z. Around 25% of this age group avoid answering the phone altogether[^27].
 
 In most cases, you'll want to use your mobile number as your business number, so this second option is less common.
 
 Several types of dialers automate calling a list of contacts. An autodialer, also known as a power dialer, makes multiple calls in sequence. A predictive dialer, sometimes called a multi-dialer, starts one call while another is still connecting.
 
-With increased automation, regulatory requirements have risen considerably[28]. When cold-calling FSBOs or Expireds, the only legally permitted option is the click-to-dial feature. Some agents have attempted to use more advanced options and have ended up in court[29]. Therefore, it is generally not advisable to go beyond click-to-dial functionality. You will not find these features in a reputable CRM, as they are designed for high-volume call centers and pose significant legal risk for a real estate agent. Stick to click-to-dial.
+With increased automation, regulatory requirements have risen considerably[^28]. When cold-calling FSBOs or Expireds, the only legally permitted option is the click-to-dial feature. Some agents have attempted to use more advanced options and have ended up in court[^29]. Therefore, it is generally not advisable to go beyond click-to-dial functionality. You will not find these features in a reputable CRM, as they are designed for high-volume call centers and pose significant legal risk for a real estate agent. Stick to click-to-dial.
 
 The click-to-dial feature significantly boosts your productivity and is a valuable tool. It is especially useful when making outgoing calls from your daily call list. You can click-to-dial, speak with your prospect, leave a voicemail, add notes to your CRM, and schedule a follow-up call—all within a few minutes.
 
 ## Text Messaging
 
-Almost all potential homebuyers and sellers carry a mobile phone, so if you text them, they are likely to read your message within a few minutes. People tend to read and respond to texts more than to any other form of communication. This is supported by mobile marketing research: the average email open rate is 30%[30], while the SMS open rate is 98%[31]. If you get a response, it will likely come quickly and be a reply text, so be prepared.
+Almost all potential homebuyers and sellers carry a mobile phone, so if you text them, they are likely to read your message within a few minutes. People tend to read and respond to texts more than to any other form of communication. This is supported by mobile marketing research: the average email open rate is 30%[^30], while the SMS open rate is 98%[^31]. If you get a response, it will likely come quickly and be a reply text, so be prepared.
 
 During business hours, text messages often go through, while personal voice calls may be restricted in some workplaces. Most voice calls will likely go directly to voicemail. With texts, you can expect most to be read within a few minutes. You might also feel more comfortable sending texts during extended hours, such as in the evening, rather than making a voice call. This approach prevents telephone tag, as the recipient can read and reply to your message when they have time. Voice calls also work well with texts, since you can use texting to coordinate a call and reduce voicemails.
 
@@ -64,7 +67,7 @@ Keep in mind that many people sleep with their phones nearby. Avoid sending text
 > [!SECRET]
 > **The Timely Touch Secret**: At your first contact with the client ask them how they prefer to be reached: phone, email, or text and at what times. Logging this in your CRM shows respect for their schedule and increases the likelihood your outreach is welcomed.
 
-Your initial text message should be personal, direct, and framed as a question. A statement can be ignored, but a question engages the brain’s natural need for closure[32]. Including the recipient’s name and a specific detail makes it personal, while ending with a direct question makes it actionable. For example: “Jack, that 12 Main Street property is still available, but interest is high. Are you still interested? -- Sam @ RE/MAX.” This structure makes it psychologically difficult for the recipient to leave the loop open, dramatically increasing your chances of a reply.
+Your initial text message should be personal, direct, and framed as a question. A statement can be ignored, but a question engages the brain’s natural need for closure[^32]. Including the recipient’s name and a specific detail makes it personal, while ending with a direct question makes it actionable. For example: “Jack, that 12 Main Street property is still available, but interest is high. Are you still interested? -- Sam @ RE/MAX.” This structure makes it psychologically difficult for the recipient to leave the loop open, dramatically increasing your chances of a reply.
 
 Text messages should not be used to deliver large amounts of information. Keep your messages short and to the point. The main goal of any text is to get the prospect on the phone. Unlike emails, you shouldn't include a signature at the end of each message; instead, include your name and company in the initial message.
 
@@ -82,7 +85,7 @@ There is a key difference between email and texting in how spam complaints are m
 
 Usually, this is a temporary block lasting 24 or 48 hours. However, repeat offenders are permanently blacklisted. Therefore, I suggest sending prospecting messages through your real estate CRM. That way, you can let your SMS phone number cool down by pausing texts for a few days if you get blacklisted.
 
-A tiny URL is a shortened version of a long URL, created by services like TinyURL.com. Spam filters used by phone carriers will flag messages that include public URL shorteners as spam[33]. This is because tiny URLs can hide the original link, making malicious links harder to spot. For this reason, I recommend using full, unaltered URLs in your text messages if you include links. Any link you share should be in its own message, with no extra text before or after the URL. This keeps the link clickable and helps spam filters review it without confusion. Also, make sure all links use HTTPS. The “s” in https stands for “secure,” which adds proof that you're legitimate. The spam filters built into SMS are strong and actively look for suspicious messages.
+A tiny URL is a shortened version of a long URL, created by services like TinyURL.com. Spam filters used by phone carriers will flag messages that include public URL shorteners as spam[^33]. This is because tiny URLs can hide the original link, making malicious links harder to spot. For this reason, I recommend using full, unaltered URLs in your text messages if you include links. Any link you share should be in its own message, with no extra text before or after the URL. This keeps the link clickable and helps spam filters review it without confusion. Also, make sure all links use HTTPS. The “s” in https stands for “secure,” which adds proof that you're legitimate. The spam filters built into SMS are strong and actively look for suspicious messages.
 
 You can send multiple text messages in just a few minutes using your real estate CRM. However, be careful not to send too many messages too quickly. Why? Because you can expect responses, and they will typically come within a few minutes. When responses arrive, reply quickly. You will achieve much better results if you block out a full hour and send 10-20 messages at the start. Do your work within your real estate CRM during that hour. That way, you can respond promptly when you get a reply. The last thing you want to do is get a warm lead and then let it go cold by not acting on it immediately. If someone sends you a text message and you reply within a minute or two, you're almost certain the recipient will read your reply. If you wait 8 hours, your chances of being read will be much lower.
 
@@ -93,12 +96,12 @@ Email is effective for maintaining contact, but it’s a poor choice for initial
 > [!SECRET]
 > **The Sweet Role Secret**: Avoid sending bulk emails to role-based email addresses. A role-based email address is one associated with a job function, department, or group within an organization, rather than an individual. It typically starts with a common word that describes the purpose or role, such as info@, support@, sales@. Replace these emails with a named person when you can. If you cannot, keep the address for transactional replies only. Spam filters and mail providers dislike it when bulk emails are sent to role-based email addresses.
 
-To ensure your emails land in the inbox, you need to understand what spam filters look for. Spam is unsolicited email sent in bulk, and about half of all emails sent are considered spam[34]. Spam filters are highly effective at detecting and blocking unwanted messages. The last thing you want is for an important email—such as an offer or an inspection report—to end up in someone’s spam folder.
+To ensure your emails land in the inbox, you need to understand what spam filters look for. Spam is unsolicited email sent in bulk, and about half of all emails sent are considered spam[^34]. Spam filters are highly effective at detecting and blocking unwanted messages. The last thing you want is for an important email—such as an offer or an inspection report—to end up in someone’s spam folder.
 
 Filters are more likely to accept emails from people the recipient already knows. The best way to maximize deliverability is to exchange an email with someone. Send them a message and have them reply immediately. This trains the spam filter to recognize your emails as not spam. You should also ask your recipient to add you to their address book, which also increases the chances that your email won’t go to spam. The easiest way is to exchange emails while you're talking on the phone.
 
 > [!SECRET]
-> **Love Letter Secret**: For higher open and reply rates, send simple emails with limited use of fancy layout. The most effective include a simple letterhead, some styled text, and your signature. These personal emails are less likely to be flagged as spam and can increase reply rates by over 20% and clicks by up to 51%, a finding supported by extensive marketing research[35]. Complex multi-column newsletter formatted content looks canned and impersonal and tends to get a far lower response rate.
+> **Love Letter Secret**: For higher open and reply rates, send simple emails with limited use of fancy layout. The most effective include a simple letterhead, some styled text, and your signature. These personal emails are less likely to be flagged as spam and can increase reply rates by over 20% and clicks by up to 51%, a finding supported by extensive marketing research[^35]. Complex multi-column newsletter formatted content looks canned and impersonal and tends to get a far lower response rate.
 
 Spam filters closely monitor one-sided email exchanges, tracking which messages are opened and responded to. If you send a series of emails that go unread or unanswered, spam filters interpret that as low engagement and are more likely to send all future emails from you straight to the spam folder. Your real estate CRM tracks **email engagement** to help you improve the deliverability of your messages. Email engagement, also called **open rate**, is the percentage of emails you send that are opened and read. Your CRM tracks this by embedding an invisible image in each email. When the email is opened, the image is displayed, and the email status in your CRM updates from “Sent” to “Sent+Read”.
 
@@ -106,7 +109,7 @@ Filters also look for signs that the sender doesn't know the recipient, such as 
 
 I suggest using a separate email account for your business communications rather than your personal account. This will help you appear more professional and prevent important emails from getting lost among personal messages.
 
-If you need a new email account, Gmail is an excellent choice for its powerful spam filter, ample storage, and free access. Your broker might also provide a business email address, which is another good option. Once you are more established, consider registering your own domain name, such as SallySellsSarasota.com. You can then use that domain to create a website and send emails from a custom address like Sally@SallySellsSarasota.com. For email hosting, Google offers Google Workspace, which provides the same features as Gmail with your own domain name[36].
+If you need a new email account, Gmail is an excellent choice for its powerful spam filter, ample storage, and free access. Your broker might also provide a business email address, which is another good option. Once you are more established, consider registering your own domain name, such as SallySellsSarasota.com. You can then use that domain to create a website and send emails from a custom address like Sally@SallySellsSarasota.com. For email hosting, Google offers Google Workspace, which provides the same features as Gmail with your own domain name[^36].
 
 When choosing your email address, consider how it sounds when spoken over the phone. Since you'll share it often during calls, choose one that’s easy to pronounce and hard to misspell. The longer the email address, the more likely it is to be misspelled, so avoid using a very long address.
 
@@ -137,7 +140,7 @@ This is for your safety: sending an email to someone who has opted out or compla
 
 A complaint occurs when someone selects the Spam or Junk folder in their mailbox or files a complaint with their email provider, such as AOL, Yahoo, Outlook, or Gmail. If you send more emails to someone who has complained, the mail server treats this as very rude behavior and views it negatively.
 
-Similarly, sending emails to a hard-bounced email address can be seen as spammy and robotic, since a human wouldn’t do that, and the consequences are just as serious. Email providers share these insights with other providers through feedback loops[37], allowing reports of reckless behavior to spread across email servers. A bad reputation is like a wanted poster, and the last thing you want is for email servers to prejudge all your messages.
+Similarly, sending emails to a hard-bounced email address can be seen as spammy and robotic, since a human wouldn’t do that, and the consequences are just as serious. Email providers share these insights with other providers through feedback loops[^37], allowing reports of reckless behavior to spread across email servers. A bad reputation is like a wanted poster, and the last thing you want is for email servers to prejudge all your messages.
 
 You can also track who opens your emails and when, helping you evaluate the success of your email campaigns.
 
@@ -199,7 +202,7 @@ When hosting an open house, a flyer is a standard takeaway for prospective buyer
 
 Your real estate CRM includes a library of **eCards**. These animated email templates can be sent to contacts in your database for various occasions. You might send an eCard to wish friends and family a happy Halloween or a birthday eCard to someone on their special day. eCards offer several benefits. The most obvious is that they convey the sentiment expressed in the eCard.
 
-A more subtle benefit is that when you send your eCard, you verify whether the email address you have for someone is still valid. The phenomenon of contact information becoming invalid over time is called list decay[38]. Expect about 20% of the email addresses in your database to become inaccurate each year as people change email providers. By sending periodic eCards, your real estate CRM alerts you to which email addresses are no longer valid. When you receive that notification, reach out to the person by another method, such as a call or text, and ask for their current email address. A HardBounce may be a temporary error, such as when someone’s email account is full. However, even in that case, it strongly indicates that, while they haven’t completely abandoned their email address, they have moved on to another as their main address.
+A more subtle benefit is that when you send your eCard, you verify whether the email address you have for someone is still valid. The phenomenon of contact information becoming invalid over time is called list decay[^38]. Expect about 20% of the email addresses in your database to become inaccurate each year as people change email providers. By sending periodic eCards, your real estate CRM alerts you to which email addresses are no longer valid. When you receive that notification, reach out to the person by another method, such as a call or text, and ask for their current email address. A HardBounce may be a temporary error, such as when someone’s email account is full. However, even in that case, it strongly indicates that, while they haven’t completely abandoned their email address, they have moved on to another as their main address.
 
 > [!SECRET]
 > **Bungled Birthday Secret**: Sending an automated birthday eCard misses out on a more personal touch. Use your CRM’s birthday reminders to make a phone call instead, which is more effective. This is especially true for a “Top100” contact.
@@ -220,7 +223,7 @@ or Call (970) 235-9114 Enter Code 999
 
 The phone number and code above are live, so give them a try to see how call capture works.
 
-Call capture lets people access listing information at any time, day or night. Studies show that agents who use an automated hotline or text-for-info service receive more inquiries than those who display only a regular phone number[39]. Why? Buyers feel more comfortable calling at odd hours, when you may be asleep. An automated hotline also helps overcome concerns about talking to a pushy real estate agent, waiting on hold, or leaving a voicemail. Instead, they simply text a 3-digit code to receive the information within a few seconds.
+Call capture lets people access listing information at any time, day or night. Studies show that agents who use an automated hotline or text-for-info service receive more inquiries than those who display only a regular phone number[^39]. Why? Buyers feel more comfortable calling at odd hours, when you may be asleep. An automated hotline also helps overcome concerns about talking to a pushy real estate agent, waiting on hold, or leaving a voicemail. Instead, they simply text a 3-digit code to receive the information within a few seconds.
 
 When someone calls your automated hotline number, their phone number and caller ID are recorded, and a new prospect is automatically added to your CRM. You receive email and text message notifications so you can respond quickly. If you prefer, you can also let the prospect connect with you directly, which will ring your mobile phone and connect them to you live.
 
@@ -234,28 +237,24 @@ The main advantage of using call capture is how easy it is for both you and the 
 
 ### Endnotes
 
-[27] The preference for text messaging over voice calls, especially among younger demographics, is well-documented. A Uswitch survey of 2,000 people found that nearly 70% of individuals aged 18 to 34 prefer a text to a phone call. This trend reinforces the strategy of using SMS as a primary and immediate communication channel for new leads, particularly those generated online, to increase contact rates.
+[^27]: The preference for text messaging over voice calls, especially among younger demographics, is well-documented. A Uswitch survey of 2,000 people found that nearly 70% of individuals aged 18 to 34 prefer a text to a phone call. This trend reinforces the strategy of using SMS as a primary and immediate communication channel for new leads, particularly those generated online, to increase contact rates.
+[^28]: In the United States, the Telephone Consumer Protection Act and FCC rules govern autodialers, prerecorded calls, consent, caller ID, abandoned call rates, and Do Not Call (DNC) compliance. Manual click-to-dial is treated differently from automated dialing.
+[^29]: Agents and companies have faced individual and class-action lawsuits over improper automated calling or texting; damages and defense costs can be significant. Consult your broker or legal counsel before using advanced dialers.
+[^30]: Mailchimp reports open rates of 31% for business and finance emails.
+[^31]: Marketing industry reports consistently show a dramatic difference in engagement between email and SMS. Sources such as Gartner and Forbes have reported SMS open rates exceeding 95%, compared with average marketing email open rates of 20% to 30% across industries.
+[^32]: This leverages a psychological principle known as the Zeigarnik Effect, which states that people remember incomplete or interrupted tasks better than completed ones. A direct question creates an “open loop” or unfinished task in the recipient’s mind, generating cognitive tension that they are motivated to resolve by answering.
+[^33]: The Cellular Telecommunications Industry Association (CTIA) provides messaging principles and best practices for commercial texting. Its guidelines, along with those of major mobile carriers, warn that using public URL shorteners is a spam characteristic and can result in message filtering or blocking.
+[^34]: According to a Statista projection, spam emails accounted for approximately 48% of global email traffic in 2024, a notable decline from the 80% levels observed about a decade earlier. Still, that means nearly one in two emails remains junk.
+[^35]: This phenomenon is supported by extensive marketing research. A/B tests from sources like HubSpot and NextAfter confirm that simpler, plain-text emails consistently outperform heavily designed HTML versions, increasing reply rates by over 20% and generating up to 51% more clicks. This approach has proven especially effective for engaging an existing audience, driving 60% of conversions in one study. The improved performance is attributed to higher deliverability, as complex HTML can trigger spam filters. Simpler emails also have a more personal feel that signals a one-to-one relationship rather than mass advertising.
+[^36]: Google Workspace, formerly known as G Suite, is an upgraded version of Google’s free tools: Gmail, Google Drive, and Chat. For a low monthly fee, you can use your own domain name and get technical support. It is the perfect addition to your website, as it lets you use the highly secure Gmail platform for your email while using your own custom domain name (e.g. sally@SallySellsSarasota.com).
+[^37]: A feedback loop (FBL) is a service offered by Internet Service Providers (ISPs), such as Yahoo!, AOL, Hotmail, and Outlook, that shares spam complaints with other ISPs. Maintaining a low complaint rate is critical for maintaining a good sender reputation.
+[^38]: The marketing research firm MarketingSherpa reports that contact data decays at a rate of 2.1% per month, which compounds to 22.5% annually. This phenomenon is often called “list decay.”
+[^39]: Real estate marketing-tech provider SMS Listings reports a 314% increase in responses when a “text or call for info” rider was added to a standard yard sign. Proquest reports an increased response rate of 75%.
 
-[28] In the United States, the Telephone Consumer Protection Act and FCC rules govern autodialers, prerecorded calls, consent, caller ID, abandoned call rates, and Do Not Call (DNC) compliance. Manual click-to-dial is treated differently from automated dialing.
+---
 
-[29] Agents and companies have faced individual and class-action lawsuits over improper automated calling or texting; damages and defense costs can be significant. Consult your broker or legal counsel before using advanced dialers.
+[← Previous Chapter: Proven Prospecting Methods](./10-proven-prospecting-methods.md) | [Next Chapter: Conclusion →](./12-conclusion.md)
 
-[30] Mailchimp reports open rates of 31% for business and finance emails.
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMSecrets.com](https://realEstateCRMSecrets.com)
 
-[31] Marketing industry reports consistently show a dramatic difference in engagement between email and SMS. Sources such as Gartner and Forbes have reported SMS open rates exceeding 95%, compared with average marketing email open rates of 20% to 30% across industries.
-
-[32] This leverages a psychological principle known as the Zeigarnik Effect, which states that people remember incomplete or interrupted tasks better than completed ones. A direct question creates an “open loop” or unfinished task in the recipient’s mind, generating cognitive tension that they are motivated to resolve by answering.
-
-[33] The Cellular Telecommunications Industry Association (CTIA) provides messaging principles and best practices for commercial texting. Its guidelines, along with those of major mobile carriers, warn that using public URL shorteners is a spam characteristic and can result in message filtering or blocking.
-
-[34] According to a Statista projection, spam emails accounted for approximately 48% of global email traffic in 2024, a notable decline from the 80% levels observed about a decade earlier. Still, that means nearly one in two emails remains junk.
-
-[35] This phenomenon is supported by extensive marketing research. A/B tests from sources like HubSpot and NextAfter confirm that simpler, plain-text emails consistently outperform heavily designed HTML versions, increasing reply rates by over 20% and generating up to 51% more clicks. This approach has proven especially effective for engaging an existing audience, driving 60% of conversions in one study. The improved performance is attributed to higher deliverability, as complex HTML can trigger spam filters. Simpler emails also have a more personal feel that signals a one-to-one relationship rather than mass advertising.
-
-[36] Google Workspace, formerly known as G Suite, is an upgraded version of Google’s free tools: Gmail, Google Drive, and Chat. For a low monthly fee, you can use your own domain name and get technical support. It is the perfect addition to your website, as it lets you use the highly secure Gmail platform for your email while using your own custom domain name (e.g. sally@SallySellsSarasota.com).
-
-[37] A feedback loop (FBL) is a service offered by Internet Service Providers (ISPs), such as Yahoo!, AOL, Hotmail, and Outlook, that shares spam complaints with other ISPs. Maintaining a low complaint rate is critical for maintaining a good sender reputation.
-
-[38] The marketing research firm MarketingSherpa reports that contact data decays at a rate of 2.1% per month, which compounds to 22.5% annually. This phenomenon is often called “list decay.”
-
-[39] Real estate marketing-tech provider SMS Listings reports a 314% increase in responses when a “text or call for info” rider was added to a standard yard sign. Proquest reports an increased response rate of 75%.

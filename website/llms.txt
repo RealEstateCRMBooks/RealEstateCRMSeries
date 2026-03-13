@@ -6,7 +6,7 @@
 
 - [Home / CRM Secrets](/): Main book landing page explaining the benefits of using a real estate specific CRM.
 - [CRM Mastery](https://www.RealEstateCRMMastery.com): Advanced strategies for mastering your CRM.
-- [Quick Picks](quick_picks.html): Quick recommendations and picks for agents.
+
 - [Resources](resources.html): A hub for tools, guides, and insights to build better systems.
 - [Books](books.html): Details about the book series.
 - [Secrets](secrets.html): Tried-and-true strategies from 'Real Estate CRM Secrets'.

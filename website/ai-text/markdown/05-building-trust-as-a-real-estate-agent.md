@@ -6,6 +6,9 @@ author: Scott Schmitz
 website: realEstateCRMSecrets.com
 ---
 
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMSecrets.com](https://realEstateCRMSecrets.com)
+
 # Building Trust as a Real Estate Agent
 
 > “Many factors go into how a person makes an integrity assessment. One of the more subtle, but nevertheless very real, factors is consistent congruence. It takes only one disconnect, whether it is a messy bathroom, a bad cup of coffee, or an employee with a bad attitude. Anything that might be perceived as inconsistent with the first-class quality you are trying to project will plant a seed of distrust. Once planted, this seed is difficult to weed out.”
@@ -20,7 +23,7 @@ If someone asks a friend of yours, “Do you know of a good real estate agent?�
 
 You’re never going to achieve 100% market share. For example, imagine your mother has two children who are real estate agents; you'll probably never capture more than 50% of her attention when she’s considering which one is the best.
 
-An average homeowner lives in their home for about 10 years before moving[7]. When they do decide to move, you want to be the first agent they call. That’s why it’s so important to stay top of mind within your sphere of influence. Mindshare means something slightly different for your geographic farm. While people might have your name on the tip of their tongue, like your friends, if they are ever in need of an agent, it is tremendously convenient to select an agent who already dominates that neighborhood. If you have listings in a neighborhood, your yard signs are the perfect way to build mindshare.
+An average homeowner lives in their home for about 10 years before moving[^7]. When they do decide to move, you want to be the first agent they call. That’s why it’s so important to stay top of mind within your sphere of influence. Mindshare means something slightly different for your geographic farm. While people might have your name on the tip of their tongue, like your friends, if they are ever in need of an agent, it is tremendously convenient to select an agent who already dominates that neighborhood. If you have listings in a neighborhood, your yard signs are the perfect way to build mindshare.
 
 In both cases, you must build brand awareness *before* someone needs your services. Then, when they decide they need a real estate agent, you are the agent they think of. When someone is already convinced you are the right agent for them, it makes converting them into a client so much easier.
 
@@ -155,4 +158,12 @@ Your CRM can help you manage the logistics of your promotional activities with t
 
 ### Endnotes
 
-[7] The National Association of REALTORS 2024 Profile of Home Buyers and Sellers reports that home sellers in 2023 had lived in their home for a median of 10 years. This tenure has increased over the last decade, underscoring the importance of nurturing long-term relationships.
+[^7]: The National Association of REALTORS 2024 Profile of Home Buyers and Sellers reports that home sellers in 2023 had lived in their home for a median of 10 years. This tenure has increased over the last decade, underscoring the importance of nurturing long-term relationships.
+
+---
+
+[← Previous Chapter: Building a Real Estate Business](./04-building-a-real-estate-business.md) | [Next Chapter: Real Estate CRM Features →](./06-real-estate-crm-features.md)
+
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMSecrets.com](https://realEstateCRMSecrets.com)
+

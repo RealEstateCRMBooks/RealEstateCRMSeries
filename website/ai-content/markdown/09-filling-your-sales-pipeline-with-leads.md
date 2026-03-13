@@ -6,6 +6,9 @@ author: Scott Schmitz
 website: realEstateCRMSecrets.com
 ---
 
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMSecrets.com](https://realEstateCRMSecrets.com)
+
 # Filling Your Sales Pipeline with Leads
 
 > “Farming is work. But, as I said before, what else are you going to do while you aren’t selling houses? I farmed.”
@@ -32,7 +35,7 @@ Your real estate CRM can help you calculate these key statistics. This helps you
 
 What would happen if you improved the quality of your listing presentation and increased your success rate from 33% to 50%? In this case, you would go from 10 listings to 15. With a listing-to-closing success rate of 80%, you would close 12 homes instead of the 8 you closed last year. Your ability to be more effective with the same number of leads would dramatically increase your income.
 
-One of the most common areas for improvement is your follow-up with prospects at the earliest stage of the sales pipeline. While most agents excel at initial contact, they often fail to follow through over weeks or even months. Industry research shows that it takes multiple points of contact to convert a lead, yet most agents follow up only twice on average[17]. Your CRM can help you systematize follow-up, thereby increasing that conversion rate.
+One of the most common areas for improvement is your follow-up with prospects at the earliest stage of the sales pipeline. While most agents excel at initial contact, they often fail to follow through over weeks or even months. Industry research shows that it takes multiple points of contact to convert a lead, yet most agents follow up only twice on average[^17]. Your CRM can help you systematize follow-up, thereby increasing that conversion rate.
 
 Assuming you have tightened your follow-through and are successfully taking listings through closing, the next area to explore is how many new prospects you meet each day and how that directly determines your commission income. You can then decide whether it is worthwhile to dedicate additional time and money to lead generation.
 
@@ -55,7 +58,7 @@ Listings also have a synergistic effect on your ability to generate fresh buyer 
 While those methods generate leads with little effort, you can also actively capitalize on your listing by seeking prospects in the neighborhood. When marketing, ensure the central theme of your promotional activities and materials is the listed property. For example, send “Just Listed” and “Just Sold” postcards to the neighborhood. Another example is walking the area with a flyer before each open house and introducing yourself through door-knocking. Finally, once you close on the property, you can announce the home sale to the neighborhood through more door-knocking or postcards. You could even sponsor a block party to give the new homeowner an opportunity to meet the neighbors and for you to network. These activities could easily motivate other sellers, who are impressed by how you flawlessly handled the sale and the top-dollar price you negotiated.
 
 > [!SECRET]
-> **Listing Leverage Secret**: Maximize the benefits of each of your listings by treating it as a buyer-generation machine: use yard signs, call capture, open houses, and neighborhood marketing to create at least one additional buyer closing for each of your listings[18].
+> **Listing Leverage Secret**: Maximize the benefits of each of your listings by treating it as a buyer-generation machine: use yard signs, call capture, open houses, and neighborhood marketing to create at least one additional buyer closing for each of your listings[^18].
 
 A third scaling strategy is to hire an assistant or bring on a partner. You can use sales funnel data to determine whether this change is justified and which activities the new person could support. Your real estate CRM is an ideal tool for coordinating with a partner or assistant. It lets you assign tasks, track completion, and delegate work to others, freeing you for higher-value activities like listing presentations.
 
@@ -101,7 +104,7 @@ A well-equipped real estate CRM includes a library of pre-built drip email seque
 
 You can use your CRM’s content library to provide value, but don’t start a drip sequence until you understand your first prospect’s goals. Generic drip sequences can irritate prospects and prompt them to opt out. A first-time homebuyer needs different information than a savvy investor. Similarly, use bulk emails sparingly. Sending information about your new listing to someone searching in a different city or price range shows you aren’t paying attention to their individual needs. Keep your communications targeted and relevant. Finally, recognize that leads have a limited shelf life. Track when each prospect was created, and review your database at least annually to identify old, unresponsive leads. Mark these contacts as “Cold” using a category so you can focus your energy on those most likely to convert into income.
 
-New business from old clients and referrals from those who know you are just as important as fresh leads. Your real estate CRM can track who you have contacted, and when, and it can create a call list of past clients, friends, and family you should reach out to. Calling a friend on their birthday, the anniversary of their home sale, and sending annual Christmas cards are just three examples of relationship-building activities you should use with people in your sphere of influence. From a business perspective, these personal "touches" are a form of long-term prospecting, but their strength lies in genuine gestures of friendship[19].
+New business from old clients and referrals from those who know you are just as important as fresh leads. Your real estate CRM can track who you have contacted, and when, and it can create a call list of past clients, friends, and family you should reach out to. Calling a friend on their birthday, the anniversary of their home sale, and sending annual Christmas cards are just three examples of relationship-building activities you should use with people in your sphere of influence. From a business perspective, these personal "touches" are a form of long-term prospecting, but their strength lies in genuine gestures of friendship[^19].
 
 You should also identify a “Top100” category of people in your contacts database. These are the individuals most likely to recommend you or use your services again. Place these people on a 90-day touch cycle, so you contact them every 3 months. This way, you have an opportunity to maintain a good relationship and hear about referrals and repeat business opportunities. For everyone else in your contacts database, consider calling them at least once a year just to say "hi."
 
@@ -115,7 +118,7 @@ Some people you meet during floor time will be highly motivated buyers. They mig
 
 When you meet someone new, get to know them. Find out why they are thinking of buying or selling. This might be due to a life change, such as a new baby, marriage, divorce, or a job change. You also need to understand their financial circumstances. If they are buying, what price range are they considering? What is the timeframe? A great way to break the ice is to use one of the real estate calculators built into your CRM.
 
-According to the National Association of REALTORS, nearly 40% of buyers take 70 days or more from their first contact with an agent before making an offer[20]. Because this process takes time, you should use your CRM to manage your follow-up, nurturing your prospect while they get prequalified for a loan and become familiar with homes on the market that meet their needs. Your ability to manage the transition from initial excitement to a qualified buyer and, eventually, to an offer is key to earning your commission check. Buyers are likely to be opportunistic about which agent they use, so your follow-up will be key to converting them into a closing.
+According to the National Association of REALTORS, nearly 40% of buyers take 70 days or more from their first contact with an agent before making an offer[^20]. Because this process takes time, you should use your CRM to manage your follow-up, nurturing your prospect while they get prequalified for a loan and become familiar with homes on the market that meet their needs. Your ability to manage the transition from initial excitement to a qualified buyer and, eventually, to an offer is key to earning your commission check. Buyers are likely to be opportunistic about which agent they use, so your follow-up will be key to converting them into a closing.
 
 ## Open House Strategies
 
@@ -136,7 +139,7 @@ Real estate coach Tom Ferry recommends this direct approach, framing it as a “
 
 I recommend getting a large magnetic vinyl sign for your car that displays your contact information, including your name, brokerage, company logo, and a portrait photo of yourself. With this sign on your car, you are advertising yourself whenever you are in the neighborhood. The presence of your car with its sign in front of the open house also signals that you are inside. This is ideal not only for open houses but also for showings, where you might meet a buyer at the property.
 
-On the day of the open house, set up directional signs with festive balloons to guide traffic and create a festive atmosphere. Before the open house begins, work with your seller to clean, declutter, and depersonalize the house. Consider baking a store-bought cookie dough roll before visitors arrive. The aroma of freshly baked goods is one of the oldest tricks in the book because it works. Scent is directly linked to the brain’s center for emotion and memory, instantly evoking positive, nostalgic feelings of home, safety, and comfort[21]. The goal is to make the unfamiliar house feel familiar. This welcoming atmosphere can predispose buyers to a positive evaluation of the property, and you can offer visitors a warm cookie as well.
+On the day of the open house, set up directional signs with festive balloons to guide traffic and create a festive atmosphere. Before the open house begins, work with your seller to clean, declutter, and depersonalize the house. Consider baking a store-bought cookie dough roll before visitors arrive. The aroma of freshly baked goods is one of the oldest tricks in the book because it works. Scent is directly linked to the brain’s center for emotion and memory, instantly evoking positive, nostalgic feelings of home, safety, and comfort[^21]. The goal is to make the unfamiliar house feel familiar. This welcoming atmosphere can predispose buyers to a positive evaluation of the property, and you can offer visitors a warm cookie as well.
 
 > [!SECRET]
 > **Barefoot Buyer Secret**: Place a sign by the door asking people to remove their shoes or to put on the disposable booties you provide. This keeps the home clean, shows respect for the owner, and gives buyers the impression that the property is of high quality and has been well cared for.
@@ -265,7 +268,7 @@ Another advantage of working with investors is that they often pursue properties
 
 Commercial buyers may be driven by different incentives than residential buyers. For example, a commercial buyer might wish to close quickly to take advantage of tax-favored status under the 1031 exchange rules. A 1031 exchange is an IRS provision that allows a real estate investor to defer capital gains taxes when selling an investment or business property, provided they use all the sale proceeds to acquire a “like-kind” replacement property of equal or greater value. To do that, they would buy and sell a property within just a few months. This could give you the opportunity to do two deals for a buyer whose primary incentive is not price but timing.
 
-Typically, commercial real estate is priced higher than residential real estate. Deals can be more complex and take longer to close. As a result, an agent specializing in commercial real estate might handle fewer transactions, but the final commission is much larger. The average annual income for commercial real estate agents is more than double that of residential real estate agents[22]. For these reasons, using a real estate CRM to track contingencies, deadlines, parties involved in the deal, and progress toward closing is even more critical than in residential real estate.
+Typically, commercial real estate is priced higher than residential real estate. Deals can be more complex and take longer to close. As a result, an agent specializing in commercial real estate might handle fewer transactions, but the final commission is much larger. The average annual income for commercial real estate agents is more than double that of residential real estate agents[^22]. For these reasons, using a real estate CRM to track contingencies, deadlines, parties involved in the deal, and progress toward closing is even more critical than in residential real estate.
 
 The line between commercial and residential can sometimes be blurry. A typical scenario is that you help a client purchase or sell a residential property, and then they call on your services to handle a commercial transaction. Your ability to deliver a full level of service provides immense value to your clients. After all, they already know and trust you for their residential real estate needs, so they might prefer to work with you on a small commercial transaction, even though you are not a dedicated commercial real estate agent.
 
@@ -273,14 +276,17 @@ While there are commercial real estate-specific CRMs, it is not uncommon for com
 
 ### Endnotes
 
-[17] Research from the sales intelligence firm Brevet found that 80% of sales required at least 5 follow-up calls, yet 44% of salespeople gave up after just one follow-up attempt, and 66% after two. This highlights a significant gap between the effort required to succeed and the typical agent’s lack of persistence.
+[^17]: Research from the sales intelligence firm Brevet found that 80% of sales required at least 5 follow-up calls, yet 44% of salespeople gave up after just one follow-up attempt, and 66% after two. This highlights a significant gap between the effort required to succeed and the typical agent’s lack of persistence.
+[^18]: The concept that each listing can be expected to produce at least one additional buyer-side closing originates from *The Millionaire Real Estate Agent* by Gary Keller, Dave Jenks, and Jay Papasan.
+[^19]: Real estate coaching experts like Tom Ferry and industry platforms like Inman News regularly emphasize that it takes between 6 and 12 “touches” to convert a cold lead into a viable client. These touches can include a mix of phone calls, emails, text messages, postcards, printed letters, and in-person visits.
+[^20]: The 2024 National Association of REALTORS’ Profile of Home Buyers and Sellers shows that buyers typically search for 10 weeks and look at a median of 9 homes. This underscores the need for a system to manage relationships over an extended period.
+[^21]: The scientific principle of Odor-Evoked Autobiographical Memory (OEA) explains the link between scent and the brain’s emotional centers. (See: Herz, R. S. (2016). *The role of odor-evoked memory in psychological and physiological activity*. Progress in Neurobiology, 139, 100–109.)
+[^22]: The median gross income for all REALTORS (most of whom specialize in residential real estate) was \$55,800 in 2023. In contrast, National Association of REALTORS members who specialized in commercial real estate reported a median annual gross income of \$120,800 in 2016 (National Association of REALTORS, 2024 Member Profile and 2017 Commercial Member Profile reports).
 
-[18] The concept that each listing can be expected to produce at least one additional buyer-side closing originates from *The Millionaire Real Estate Agent* by Gary Keller, Dave Jenks, and Jay Papasan.
+---
 
-[19] Real estate coaching experts like Tom Ferry and industry platforms like Inman News regularly emphasize that it takes between 6 and 12 “touches” to convert a cold lead into a viable client. These touches can include a mix of phone calls, emails, text messages, postcards, printed letters, and in-person visits.
+[← Previous Chapter: Working Your Database](./08-working-your-database.md) | [Next Chapter: Proven Prospecting Methods →](./10-proven-prospecting-methods.md)
 
-[20] The 2024 National Association of REALTORS’ Profile of Home Buyers and Sellers shows that buyers typically search for 10 weeks and look at a median of 9 homes. This underscores the need for a system to manage relationships over an extended period.
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMSecrets.com](https://realEstateCRMSecrets.com)
 
-[21] The scientific principle of Odor-Evoked Autobiographical Memory (OEA) explains the link between scent and the brain’s emotional centers. (See: Herz, R. S. (2016). *The role of odor-evoked memory in psychological and physiological activity*. Progress in Neurobiology, 139, 100–109.)
-
-[22] The median gross income for all REALTORS (most of whom specialize in residential real estate) was \$55,800 in 2023. In contrast, National Association of REALTORS members who specialized in commercial real estate reported a median annual gross income of \$120,800 in 2016 (National Association of REALTORS, 2024 Member Profile and 2017 Commercial Member Profile reports).

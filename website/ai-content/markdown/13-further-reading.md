@@ -6,6 +6,9 @@ author: Scott Schmitz
 website: realEstateCRMSecrets.com
 ---
 
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMSecrets.com](https://realEstateCRMSecrets.com)
+
 # Further Reading
 
 This book, *Real Estate CRM Secrets*, focuses on the core systems a new agent needs to get organized, build consistent habits, and grow their business. I have also written a companion book, *Real Estate CRM Mastery*, designed for the experienced agent who has mastered these essentials and is ready to scale their production. It covers advanced strategies for managing time, automating marketing, and leading a team or an assistant. Together, these two books offer a complete, repeatable system for helping an agent become a top-producing real estate professional.
@@ -29,4 +32,11 @@ The Millionaire Real Estate Agent by Gary Keller et al. offers a proven, systema
 *The Book of Yes* by Kevin Ward provides real-world scripts to help agents handle objections and close more deals.
 
 *Endless Referrals* by Bob Burg explains how to build a network and generate business through relationship-based marketing.
+
+---
+
+[← Previous Chapter: Conclusion](./12-conclusion.md) | [Next Chapter: About the Author →](./14-about-the-author.md)
+
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMSecrets.com](https://realEstateCRMSecrets.com)
 

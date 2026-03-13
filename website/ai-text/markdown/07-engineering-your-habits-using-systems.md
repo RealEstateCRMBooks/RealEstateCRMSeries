@@ -6,6 +6,9 @@ author: Scott Schmitz
 website: realEstateCRMSecrets.com
 ---
 
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMSecrets.com](https://realEstateCRMSecrets.com)
+
 # Engineering Your Habits Using Systems
 
 > “Successful prospecting requires repeated and frequent time on task. Time on task makes you much more efficient and gets you much better results. You cannot increase your skill level if you don’t spend a substantial amount of time practicing and performing prospecting activities. Real estate is a numbers game. You must develop consistent habits and you must begin prospecting with high frequency to develop your skills and see steady and recurring results.”
@@ -18,7 +21,7 @@ What is the most precious resource in the world? Is it oil? Gold? Real estate? I
 
 A habit is something you do regularly, like brushing your teeth every morning. We all need repetition to make a habit stick. If you do the same thing at the same time every day, it becomes part of your routine and is easier to repeat day after day. By scheduling blocks of time on your calendar for follow-up calls, you remove the ability to procrastinate. You can’t build habits for long-term goals, like closing a deal, but you can create habits that help you complete the individual tasks you need to close that deal.
 
-One way to build habits you will stick with is to connect them to your existing routine. This strategy, known as “habit stacking,” involves pairing a new action with an established one[12].
+One way to build habits you will stick with is to connect them to your existing routine. This strategy, known as “habit stacking,” involves pairing a new action with an established one[^12].
 
 For example, you likely already have a morning habit of checking your email. Stack onto that habit another habit of signing in and reviewing the tasks and appointments in your CRM. By pairing an incremental habit (checking your CRM) with an existing habit (checking your email), you make it easier to adopt the new habit as part of your daily routine.
 
@@ -74,7 +77,7 @@ I also recommend setting aside a few hours on Fridays to send birthday cards and
 
 By front-loading the tasks you dread as the first thing in the morning, you can get them done sooner. This concept, popularized by author Brian Tracy in his book *Eat That Frog!,* holds that completing the most challenging task first lets you go through the rest of the day feeling accomplished and knowing the worst is behind you. With your chores out of the way, you will feel lighter and happier for the rest of the day. When you procrastinate on tasks you dislike, you sabotage your efficiency. Schedule activities you enjoy for later in the day. That way, when your energy is lower, you can do the things you enjoy. Ideally, each task on your task list is small enough to accomplish in under an hour.
 
-If you are feeling overwhelmed, focus on completing several small, quick tasks one after another. This strategy leverages the psychological boost of immediate progress, creating a positive feedback loop that makes it easier to start larger projects[13].
+If you are feeling overwhelmed, focus on completing several small, quick tasks one after another. This strategy leverages the psychological boost of immediate progress, creating a positive feedback loop that makes it easier to start larger projects[^13].
 
 Be careful about distractions. If you are working on your task list and get distracted by something that comes along, do not switch to that new activity. Instead, add a new item to your task list and prioritize it. If you are easily distracted, you might have difficulty completing tasks. Too many uncompleted tasks create inefficiency. It is to your advantage to complete one task before switching to the next.
 
@@ -166,7 +169,7 @@ Ultimately, a systemized business is one you can step away from. Real estate age
 
 Your real estate CRM includes several calculators to help qualify prospects. Ideally, your buyer would first meet with a mortgage professional and get pre-approved before meeting with you. However, some buyers will not do that and will instead meet with you first. Using the **maximum loan calculator**, you can quickly determine the price range your prospect should qualify for based on income, debt, and loan terms. That estimate helps you align expectations and set a ballpark maximum home price. That way, you can start showing homes immediately without waiting for your prospect to consult with a mortgage professional.
 
-While there are many reasons for the high rate of deal failure, a significant one is that the buyer could not afford the home they thought they could[14]. Rather than spending hundreds of hours on a deal that falls apart at the last minute, you can educate your client beforehand and save yourself wasted effort.
+While there are many reasons for the high rate of deal failure, a significant one is that the buyer could not afford the home they thought they could[^14]. Rather than spending hundreds of hours on a deal that falls apart at the last minute, you can educate your client beforehand and save yourself wasted effort.
 
 > [!SECRET]
 > **Budget Before Browse Secret**: For buyers who have not yet met a loan officer, use your CRM’s ‘maximum loan calculator’ in your very first meeting with a new buyer to set a realistic price range before showing homes. This prevents wasted time on unaffordable properties and establishes you as a knowledgeable, financially savvy advisor from the start.
@@ -238,8 +241,14 @@ You can also share individual documents or entire folders with others, such as o
 
 ### Endnotes
 
-[12] The term “habit stacking” was popularized by James Clear in his book *Atomic Habits*. The principle is to link a new desired habit with a current habit to increase the likelihood of success.
+[^12]: The term “habit stacking” was popularized by James Clear in his book *Atomic Habits*. The principle is to link a new desired habit with a current habit to increase the likelihood of success.
+[^13]: This approach is supported by *The Progress Principle* by Teresa Amabile at Harvard Business School, which finds that making progress in meaningful work, even in small steps, is a key motivator.
+[^14]: The primary reasons for contract termination will shift with market conditions. While home inspection issues are common, the National Association of REALTORS Confidence Index for 2024 and 2025 found that difficulty in obtaining financing and appraisal-related issues are the leading causes of terminated and delayed contracts.
 
-[13] This approach is supported by *The Progress Principle* by Teresa Amabile at Harvard Business School, which finds that making progress in meaningful work, even in small steps, is a key motivator.
+---
 
-[14] The primary reasons for contract termination will shift with market conditions. While home inspection issues are common, the National Association of REALTORS Confidence Index for 2024 and 2025 found that difficulty in obtaining financing and appraisal-related issues are the leading causes of terminated and delayed contracts.
+[← Previous Chapter: Real Estate CRM Features](./06-real-estate-crm-features.md) | [Next Chapter: Working Your Database →](./08-working-your-database.md)
+
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMSecrets.com](https://realEstateCRMSecrets.com)
+

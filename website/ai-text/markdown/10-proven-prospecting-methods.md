@@ -6,6 +6,9 @@ author: Scott Schmitz
 website: realEstateCRMSecrets.com
 ---
 
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMSecrets.com](https://realEstateCRMSecrets.com)
+
 # Proven Prospecting Methods
 
 > “The best ‘farm’ is a neighborhood where you already have or have had several listings. This gives you credibility. Otherwise, you’re simply another pretty face on a postcard.”
@@ -168,12 +171,12 @@ Expired listings take time to incubate, so an initial phone call and a drive-by 
 
 ## Approaching For Sale By Owners (FSBOs)
 
-When a homeowner decides to sell their home themselves, they may believe they can save money by handling the sale. Your value proposition is to sell the house quickly, for the highest possible price, and with minimal hassle. This isn’t just a sales pitch; data supports it. Homes sold with an agent’s help consistently command higher prices than those sold by owners[23]. This price gap can even exceed the entire commission, meaning there’s a good chance the seller will end up with more money and less stress by hiring you.
+When a homeowner decides to sell their home themselves, they may believe they can save money by handling the sale. Your value proposition is to sell the house quickly, for the highest possible price, and with minimal hassle. This isn’t just a sales pitch; data supports it. Homes sold with an agent’s help consistently command higher prices than those sold by owners[^23]. This price gap can even exceed the entire commission, meaning there’s a good chance the seller will end up with more money and less stress by hiring you.
 
 > [!SECRET]
 > **The Gift Horse Gambit**: Unlike an open house buyer who expects a direct follow-up, an FSBO seller is actively trying to avoid agents. Your first move shouldn't be to ask for their business; it must be to demonstrate your value. When you visit an FSBO in person, bring something immediately helpful, like a one-page neighborhood market update or a checklist of common seller mistakes, without asking for anything in return.
 
-Selling a home involves a tremendous amount of work, and the homeowner rarely fully understands everything that goes into taking a homeowner from “for sale” to “sold.” Setting the price is the first hurdle. Thanks to your expertise in local market conditions and MLS data, you are uniquely qualified to set a competitive price. Homeowners do not have access to that same information[24]. They are just as likely to underprice the home as overprice it. Both situations are less than ideal. In the first case, they leave money on the table, and in the second, the house will not sell.
+Selling a home involves a tremendous amount of work, and the homeowner rarely fully understands everything that goes into taking a homeowner from “for sale” to “sold.” Setting the price is the first hurdle. Thanks to your expertise in local market conditions and MLS data, you are uniquely qualified to set a competitive price. Homeowners do not have access to that same information[^24]. They are just as likely to underprice the home as overprice it. Both situations are less than ideal. In the first case, they leave money on the table, and in the second, the house will not sell.
 
 Assuming the homeowner has cleared that first hurdle, they then need to promote the home. Once again, a realtor has an advantage with access to the MLS.
 
@@ -181,7 +184,7 @@ Assuming the homeowner generates interest with a yard sign, the next challenge i
 
 There is also a real concern that the buyer has not been prequalified or vetted, or worse, might be a scammer. A homeowner might also worry about personal safety or theft of their belongings. A real estate agent will show a home only to vetted, pre-qualified buyers and will do so under strict supervision.
 
-It's no surprise that an estimated 20% to 30% of FSBO sellers eventually hire an agent after encountering these realities[25]. In real estate coaching circles, a common guideline is that many FSBOs give up around the 5-week mark[26]. Your follow-up plan, orchestrated by your CRM, provides a roadmap for converting FSBOs into clients. The process usually takes several weeks and multiple interactions with the homeowner. Your goal is not a quick appointment, but to counter their impression that you are not worth your commission by consistently being a resource, not a salesperson.
+It's no surprise that an estimated 20% to 30% of FSBO sellers eventually hire an agent after encountering these realities[^25]. In real estate coaching circles, a common guideline is that many FSBOs give up around the 5-week mark[^26]. Your follow-up plan, orchestrated by your CRM, provides a roadmap for converting FSBOs into clients. The process usually takes several weeks and multiple interactions with the homeowner. Your goal is not a quick appointment, but to counter their impression that you are not worth your commission by consistently being a resource, not a salesperson.
 
 While your long-term goal is the full listing, a highly effective intermediate strategy is to offer a different kind of solution during your scheduled follow-up calls and in your printed letters. Many FSBOs who refuse to pay a 6% commission will gladly pay 3% if you bring them a qualified buyer. Present this as a low-risk option. This approach directly addresses their main concern about saving money while also solving their biggest problem: finding a serious, pre-qualified buyer. It’s a great way to get your foot in the door, show your value, and build trust that can lead to a full listing.
 
@@ -225,10 +228,15 @@ You should also build relationships with contractors who specialize in home impr
 
 ### Endnotes
 
-[23] The National Association of REALTORS, 2024 *Profile of Home Buyers and Sellers* (November 2024) report found that the median sales price for agent-assisted home sales was \$435,000, significantly higher than the \$380,000 median for For Sale By Owner (FSBO) transactions. This \$55,000 difference highlights the impact of professional pricing, marketing reach, and negotiation expertise.
+[^23]: The National Association of REALTORS, 2024 *Profile of Home Buyers and Sellers* (November 2024) report found that the median sales price for agent-assisted home sales was \$435,000, significantly higher than the \$380,000 median for For Sale By Owner (FSBO) transactions. This \$55,000 difference highlights the impact of professional pricing, marketing reach, and negotiation expertise.
+[^24]: According to National Association of REALTORS 2025 *Profile of Home Buyers and Sellers*, the most common challenges reported by FSBOs include getting the right price, understanding and performing the paperwork, and selling within the desired timeframe. An agent’s ability to solve these specific problems is their core value proposition.
+[^25]: According to National Association of REALTORS 2025 *Profile of Home Buyers and Sellers*, more than 30% of FSBO sellers ultimately list their property with a real estate professional. This is often due to the seller’s frustration with pricing, marketing, qualifying buyers, or managing transaction paperwork.
+[^26]: The 5 week figure originates from real estate coaching and training programs that use it as a rule of thumb rather than a statistically verified national average. It is based on the observation that sellers may begin to question their decision to sell on their own after several weeks without success. This time frame—the actual tipping point—will vary from seller to seller.
 
-[24] According to National Association of REALTORS 2025 *Profile of Home Buyers and Sellers*, the most common challenges reported by FSBOs include getting the right price, understanding and performing the paperwork, and selling within the desired timeframe. An agent’s ability to solve these specific problems is their core value proposition.
+---
 
-[25] According to National Association of REALTORS 2025 *Profile of Home Buyers and Sellers*, more than 30% of FSBO sellers ultimately list their property with a real estate professional. This is often due to the seller’s frustration with pricing, marketing, qualifying buyers, or managing transaction paperwork.
+[← Previous Chapter: Filling Your Sales Pipeline with Leads](./09-filling-your-sales-pipeline-with-leads.md) | [Next Chapter: Stand Out When Reaching Out →](./11-stand-out-when-reaching-out.md)
 
-[26] The 5 week figure originates from real estate coaching and training programs that use it as a rule of thumb rather than a statistically verified national average. It is based on the observation that sellers may begin to question their decision to sell on their own after several weeks without success. This time frame—the actual tipping point—will vary from seller to seller.
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMSecrets.com](https://realEstateCRMSecrets.com)
+

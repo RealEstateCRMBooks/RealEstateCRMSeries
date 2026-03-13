@@ -6,6 +6,9 @@ author: Scott Schmitz
 website: realEstateCRMSecrets.com
 ---
 
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMSecrets.com](https://realEstateCRMSecrets.com)
+
 # Real Estate CRM Features
 
 > “Seeing a For-Sale-By-Owner yard sign should evoke the same feelings you would get from seeing a blank check with your name on it. The potential with FSBOs is endless.”
@@ -18,7 +21,7 @@ This chapter will help you identify key features in your real estate CRM that ca
 
 There are many real estate CRMs to choose from, and finding the perfect one can feel overwhelming. I recommend prioritizing your selection based on two factors: ease of use and technical support. Why?
 
-Most real estate agents use only a fraction of the features available in their CRM[8]. The reason is that you can’t use features you don’t know about or don’t know how to operate. The most significant factors in your successful use of a real estate CRM are the quality of training your CRM vendor provides and how straightforward your CRM is to use. While each real estate CRM vendor will have a slightly different set of features, most will share a common core set. For this reason, I recommend focusing on technical support and training. After all, you can only use the features you know how to use!
+Most real estate agents use only a fraction of the features available in their CRM[^8]. The reason is that you can’t use features you don’t know about or don’t know how to operate. The most significant factors in your successful use of a real estate CRM are the quality of training your CRM vendor provides and how straightforward your CRM is to use. While each real estate CRM vendor will have a slightly different set of features, most will share a common core set. For this reason, I recommend focusing on technical support and training. After all, you can only use the features you know how to use!
 
 > [!SECRET]
 > **Trust But Verify Secret**: CRM vendors sometimes advertise features that sound amazing. But sometimes things sound better than they are. The only way to trust a CRM feature is to use the free trial and personally test that feature. If you get stuck, call technical support. That’s when you’ll find out if those features were too good to be true and how good the technical support really is. The last thing you want to do is purchase a CRM and then later realize that the product is buggy, works imperfectly, or the salesperson exaggerated its capabilities.
@@ -94,7 +97,7 @@ Another key feature is called **email feed**, also known as email parsing. This 
 Real estate lead sources that deliver leads via email feed typically allow you to send a copy of their notification email to a dedicated email feed address assigned by your real estate CRM vendor. Emails sent to that address are automatically parsed and converted into prospect records. The advantage of this approach is its speed and automation. You are also immediately notified of the new lead via both email and text message. This allows you to centralize all of your leads within your CRM. Leads from Realtor.com, Zillow, Trulia, your own website, advertising such as Google and Facebook ads, and many more can be fed into your CRM using this automated mechanism.
 
 > [!SECRET]
-> **The Speed-to-Lead Secret**: Respond to all online inquiries as quickly as possible, ideally within 5 minutes. Open the lead in your CRM, then make your call. Use your CRM’s features, such as email feed, call capture, click-to-dial, and smartphone synchronization, to be the first agent your prospect talks with over the phone. Statistically, most buyers hire the first agent they speak with, so be that agent[9]. There is no prize for second place.
+> **The Speed-to-Lead Secret**: Respond to all online inquiries as quickly as possible, ideally within 5 minutes. Open the lead in your CRM, then make your call. Use your CRM’s features, such as email feed, call capture, click-to-dial, and smartphone synchronization, to be the first agent your prospect talks with over the phone. Statistically, most buyers hire the first agent they speak with, so be that agent[^9]. There is no prize for second place.
 
 FSBO and expired leads also lend themselves well to the automation that a real estate CRM offers. For example, if you regularly load FSBO leads from a service, your CRM can keep track of which letters and postcards have been sent and print letters and labels for the next batch to go out. Each prospect would be in a different place in the sequence, and your CRM manages who gets what for you.
 
@@ -138,7 +141,7 @@ Another benefit of using your real estate CRM is the ability to reuse content. A
 
 One more key advantage of your CRM is the ability to create standard operating procedures and checklists, also known as task lists. This boosts productivity while maintaining a consistent level of quality. Less-experienced agents will learn best practices by following the standard checklists built into their real estate CRM. Experienced agents can refine and personalize these checklists and letters to reflect their unique approach to the real estate sales process.
 
-The most obvious checklist is for a new listing. You will have a standard list of promotional activities to complete, along with a checklist of other tasks such as taking pictures, installing the lockbox and yard sign, getting the listing agreement signed, updating Zillow, and adding the listing to the MLS. This is the same approach even the most experienced pilots use before flying to make sure they don’t forget anything and don’t run into trouble mid-flight[10]. Use your checklist to ensure you complete each task without missing anything.
+The most obvious checklist is for a new listing. You will have a standard list of promotional activities to complete, along with a checklist of other tasks such as taking pictures, installing the lockbox and yard sign, getting the listing agreement signed, updating Zillow, and adding the listing to the MLS. This is the same approach even the most experienced pilots use before flying to make sure they don’t forget anything and don’t run into trouble mid-flight[^10]. Use your checklist to ensure you complete each task without missing anything.
 
 These same checklists can also be used after closing to ensure you don’t leave anything behind and to provide follow-up a few days after closing and regularly thereafter to maintain a relationship with your past clients. This last step is where most agents fail, and it is why many do not maximize their referral income potential. Consistent follow-up turns satisfied clients into repeat business and a valuable referral source. All you need to do is maintain your friendship with past clients after closing, and you have an excellent chance of getting repeat business and perhaps even referrals.
 
@@ -154,7 +157,7 @@ Your real estate CRM can also provide continuity if you lose an assistant and ne
 
 There used to be two real estate CRMs headquartered in Canada: Top Producer and iXact Contact. However, both companies faced financial difficulties and were acquired by U.S.-based holding companies. At present, there are no Canadian real estate CRMs. For the most part, the real estate CRMs currently available are based in the United States. However, these products can be adapted for Canada, Australia, and other international markets with minor adjustments.
 
-While your CRM content and letter library are likely geared toward use in the United States, accommodations may have been made for other languages and localities. The letters might also be available in Spanish, which is useful since one in seven U.S. residents speaks Spanish at home[11].
+While your CRM content and letter library are likely geared toward use in the United States, accommodations may have been made for other languages and localities. The letters might also be available in Spanish, which is useful since one in seven U.S. residents speaks Spanish at home[^11].
 
 The Canadian market is 1/5 the size of the U.S. market. For this reason, the built-in content library may also serve that market. For example, the eCard library could include content for holidays such as Canada Day and Labour Day. Some library letters will be specific to the United States, and that is by design. If a letter mentions special tax considerations that apply only in the United States, it would be excluded from drip sequences sent by a Canadian real estate agent. While Canadians, Americans, and Australians all speak English, there are variations in terminology and spelling that need to be accommodated. For example, “attorney” is a common term in the United States, while “lawyer” is a more general term used in both Canada and the United States. Your CRM should make it easy to clone, edit, and tag these materials so you can keep the correct version for the right audience and maintain brand consistency.
 
@@ -222,7 +225,7 @@ There is one type of newsletter that benefits everyone: a local real estate mark
 
 ## CRM Quick Pick List
 
-**RealtyJuggler**: The most affordable real estate CRM with a comprehensive feature set, including transaction management, an extensive content library, calculators, and expense and income tracking. They offer a lengthy free trial, phone support, and a cancel-at-any-time pro-rated refund.
+**[RealtyJuggler](https://www.realtyjuggler.com/)**: The most affordable real estate CRM with a comprehensive feature set, including transaction management, an extensive content library, calculators, and expense and income tracking. They offer a lengthy free trial, phone support, and a cancel-at-any-time pro-rated refund.
 
 **iXact Contact**: A relatively affordable real estate CRM with a solid feature set. They offer agent websites and a monthly newsletter. They were acquired by Elm Street Technologies in 2021.
 
@@ -232,10 +235,15 @@ There is one type of newsletter that benefits everyone: a local real estate mark
 
 ### Endnotes
 
-[8] CRM industry research shows that many users employ only a limited range of the features available in their system. DemandSage reports that 43% of CRM users utilize fewer than half of their CRM’s capabilities.
+[^8]: CRM industry research shows that many users employ only a limited range of the features available in their system. DemandSage reports that 43% of CRM users utilize fewer than half of their CRM’s capabilities.
+[^9]: According to the 2024 Profile of Home Buyers and Sellers from the National Association of REALTORS, 75% of all buyers interviewed only one real estate agent. This was true for 67% of first-time buyers and 77% of repeat buyers. This data underscores the “winner-take-all” nature of lead response: the first agent to make a professional connection and establish rapport is most likely to be hired for the job.
+[^10]: Atul Gawande famously detailed the use of checklists to reduce human error in complex professions in his book, *The Checklist Manifesto*.
+[^11]: According to the U.S. Census Bureau’s 2022 American Community Survey, over 42 million people aged 5 and older speak Spanish at home, representing over 13% of the population in that age group.
 
-[9] According to the 2024 Profile of Home Buyers and Sellers from the National Association of REALTORS, 75% of all buyers interviewed only one real estate agent. This was true for 67% of first-time buyers and 77% of repeat buyers. This data underscores the “winner-take-all” nature of lead response: the first agent to make a professional connection and establish rapport is most likely to be hired for the job.
+---
 
-[10] Atul Gawande famously detailed the use of checklists to reduce human error in complex professions in his book, *The Checklist Manifesto*.
+[← Previous Chapter: Building Trust as a Real Estate Agent](./05-building-trust-as-a-real-estate-agent.md) | [Next Chapter: Engineering Your Habits Using Systems →](./07-engineering-your-habits-using-systems.md)
 
-[11] According to the U.S. Census Bureau’s 2022 American Community Survey, over 42 million people aged 5 and older speak Spanish at home, representing over 13% of the population in that age group.
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMSecrets.com](https://realEstateCRMSecrets.com)
+
