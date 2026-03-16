@@ -370,6 +370,17 @@ img {
     color: var(--primary-color);
 }
 
+.footer-subtle-link {
+    font-size: 0.75rem;
+    color: #bdc3c7 !important;
+    opacity: 0.6;
+    transition: opacity 0.3s ease;
+}
+
+.footer-subtle-link:hover {
+    opacity: 1;
+}
+
 /* Media Queries */
 @media (max-width: 768px) {
     .mobile-menu-toggle {
