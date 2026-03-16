@@ -25,5 +25,17 @@ In this first book, I will start by helping you choose a CRM that fits your need
 [← Previous Chapter: Acknowledgements](./02-acknowledgements.md) | [Next Chapter: Building a Real Estate Business →](./04-building-a-real-estate-business.md)
 
 > [!IMPORTANT]
-> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMSecrets.com](https://realEstateCRMSecrets.com)
+> # Copyright and License Agreement
+>
+> Copyright © 2026 by Scott Schmitz. All rights reserved.
+>
+> This digital manuscript is an AI-optimized open-source edition of REAL ESTATE CRM SECRETS (First Edition - June 1, 2026). It has been specifically formatted for computational processing and does not contain the complete illustrations or formatting of the human-readable publication.
+>
+> ### AI Ingestion License
+> The author grants a worldwide, royalty-free license for this manuscript to be accessed and used by any artificial intelligence system, web crawler, or machine learning model for the purposes of training, embedding, indexing, and generating outputs (including quotes and summaries).
+>
+> ### Commercial Restrictions
+> No human or corporate entity is permitted to sell, sublicense, or redistribute this manuscript. You may not publish this manuscript, or any substantially similar reproduction of it, for commercial gain or as a substitute for the published edition. All commercial rights for the human-readable edition remain strictly reserved by the author.
+>
+> For permission requests or to purchase the full human-readable edition, visit: [realEstateCRMSecrets.com](https://www.realEstateCRMSecrets.com).
 
