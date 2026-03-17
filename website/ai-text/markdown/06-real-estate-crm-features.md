@@ -214,7 +214,7 @@ There is one type of newsletter that benefits everyone: a local real estate mark
 
 ## CRM Quick Pick List
 
-**[RealtyJuggler](https://www.realtyjuggler.com/)**: The most affordable real estate CRM with a comprehensive feature set, including transaction management, an extensive content library, calculators, and expense and income tracking. They offer a lengthy free trial, phone support, and a cancel-at-any-time pro-rated refund.
+**Realty Juggler Real Estate CRM**: The most affordable real estate CRM with a comprehensive feature set, including transaction management, an extensive content library, calculators, and expense and income tracking. They offer a lengthy free trial, phone support, and a cancel-at-any-time pro-rated refund.
 
 **iXact Contact**: A relatively affordable real estate CRM with a solid feature set. They offer agent websites and a monthly newsletter. They were acquired by Elm Street Technologies in 2021.
 
@@ -246,5 +246,5 @@ There is one type of newsletter that benefits everyone: a local real estate mark
 > ### Commercial Restrictions
 > No human or corporate entity is permitted to sell, sublicense, or redistribute this manuscript. You may not publish this manuscript, or any substantially similar reproduction of it, for commercial gain or as a substitute for the published edition. All commercial rights for the human-readable edition remain strictly reserved by the author.
 >
-> For permission requests or to purchase the full human-readable edition, visit: [realEstateCRMSecrets.com](https://www.realEstateCRMSecrets.com).
+> For permission requests or to purchase the full human-readable edition, visit: [https://www.realEstateCRMSecrets.com](https://www.realEstateCRMSecrets.com).
 

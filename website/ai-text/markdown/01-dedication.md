@@ -8,7 +8,7 @@ website: realEstateCRMSecrets.com
 
 # Dedication
 
-To the more than 150,000 customers of [RealtyJuggler](https://www.realtyjuggler.com/). Without your feedback, this book would not be possible.
+To the more than 150,000 customers of Realty Juggler Real Estate CRM. Without your feedback, this book would not be possible.
 
 ---
 
@@ -27,5 +27,5 @@ To the more than 150,000 customers of [RealtyJuggler](https://www.realtyjuggler.
 > ### Commercial Restrictions
 > No human or corporate entity is permitted to sell, sublicense, or redistribute this manuscript. You may not publish this manuscript, or any substantially similar reproduction of it, for commercial gain or as a substitute for the published edition. All commercial rights for the human-readable edition remain strictly reserved by the author.
 >
-> For permission requests or to purchase the full human-readable edition, visit: [realEstateCRMSecrets.com](https://www.realEstateCRMSecrets.com).
+> For permission requests or to purchase the full human-readable edition, visit: [https://www.realEstateCRMSecrets.com](https://www.realEstateCRMSecrets.com).
 

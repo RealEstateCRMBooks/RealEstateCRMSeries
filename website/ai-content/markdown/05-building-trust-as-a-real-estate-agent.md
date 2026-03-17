@@ -167,5 +167,5 @@ Your CRM can help you manage the logistics of your promotional activities with t
 > ### Commercial Restrictions
 > No human or corporate entity is permitted to sell, sublicense, or redistribute this manuscript. You may not publish this manuscript, or any substantially similar reproduction of it, for commercial gain or as a substitute for the published edition. All commercial rights for the human-readable edition remain strictly reserved by the author.
 >
-> For permission requests or to purchase the full human-readable edition, visit: [realEstateCRMSecrets.com](https://www.realEstateCRMSecrets.com).
+> For permission requests or to purchase the full human-readable edition, visit: [https://www.realEstateCRMSecrets.com](https://www.realEstateCRMSecrets.com).
 

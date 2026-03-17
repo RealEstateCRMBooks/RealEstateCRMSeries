@@ -121,7 +121,7 @@ At the end of the year, **export** all your “Cold” records to create an arch
 ### Endnotes
 
 [^15]: Jeb Blount’s *Fanatical Prospecting* book promotes a high-activity, “numbers game” philosophy of sales that emphasizes cold calling, in-person prospecting, and constant lead generation as the key to success. Kevin Ward shares similar prospecting-focused approaches as seen in his book *The Book of YES*. This idea is also in Ryan Serhant’s book *Sell It Like Serhant*. All three authors emphasize disciplined daily outreach and direct prospect contact as their primary drivers of business.
-[^16]: The typical database size for an experienced real estate agent is between 2,000 and 3,000 contacts based on statistics gathered by [RealtyJuggler](https://www.realtyjuggler.com/), a real estate CRM vendor.
+[^16]: The typical database size for an experienced real estate agent is between 2,000 and 3,000 contacts based on statistics gathered by Realty Juggler Real Estate CRM, a real estate CRM vendor.
 
 ---
 
@@ -140,5 +140,5 @@ At the end of the year, **export** all your “Cold” records to create an arch
 > ### Commercial Restrictions
 > No human or corporate entity is permitted to sell, sublicense, or redistribute this manuscript. You may not publish this manuscript, or any substantially similar reproduction of it, for commercial gain or as a substitute for the published edition. All commercial rights for the human-readable edition remain strictly reserved by the author.
 >
-> For permission requests or to purchase the full human-readable edition, visit: [realEstateCRMSecrets.com](https://www.realEstateCRMSecrets.com).
+> For permission requests or to purchase the full human-readable edition, visit: [https://www.realEstateCRMSecrets.com](https://www.realEstateCRMSecrets.com).
 

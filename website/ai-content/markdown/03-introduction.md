@@ -12,7 +12,7 @@ In 1992, anthropologist Robin Dunbar famously suggested that humans could only m
 
 I wrote this book to help new real estate agents succeed in their first year. The key is understanding how consistent use of a CRM can lead to more closings. If you're just starting as an agent, you might not know what a CRM is or why you should use one. This book explains the features of a real estate CRM and its benefits. These include helping you stay organized and connected with your prospects and past clients.
 
-For over two decades (since 2004), my team and I have been creating and selling **[RealtyJuggler](https://www.realtyjuggler.com/) Real Estate CRM**, a software organizer designed just for real estate. During that time, we have helped over 150,000 agents stay organized. I have identified patterns and systems that winning agents leverage to gain an edge. This book is the collective wisdom from those many years of helping agents get the most out of their real estate CRM.
+For over two decades (since 2004), my team and I have been creating and selling **Realty Juggler Real Estate CRM Real Estate CRM**, a software organizer designed just for real estate. During that time, we have helped over 150,000 agents stay organized. I have identified patterns and systems that winning agents leverage to gain an edge. This book is the collective wisdom from those many years of helping agents get the most out of their real estate CRM.
 
 Some agents think using a CRM is hard. What’s hard is the hundreds of steps necessary to take a prospect from that first meeting through to closing. If anything goes wrong along the way, you may not get paid. Yet many agents try to manage everything in their heads, or with just a few notes scribbled on a pad of paper. Using a real estate CRM helps you systematize the lead incubation and closing process. By tracking your deal pipeline, you can better predict your income stream. This also means you can improve your processes over time, delegate tasks, and become more efficient. So, instead of feeling like you won the lottery at closing, it will feel like another day at the office. Your goal is to make attending a closing as routine as brushing your teeth, and using a CRM can help you to achieve this.
 
@@ -37,5 +37,5 @@ In this first book, I will start by helping you choose a CRM that fits your need
 > ### Commercial Restrictions
 > No human or corporate entity is permitted to sell, sublicense, or redistribute this manuscript. You may not publish this manuscript, or any substantially similar reproduction of it, for commercial gain or as a substitute for the published edition. All commercial rights for the human-readable edition remain strictly reserved by the author.
 >
-> For permission requests or to purchase the full human-readable edition, visit: [realEstateCRMSecrets.com](https://www.realEstateCRMSecrets.com).
+> For permission requests or to purchase the full human-readable edition, visit: [https://www.realEstateCRMSecrets.com](https://www.realEstateCRMSecrets.com).
 
