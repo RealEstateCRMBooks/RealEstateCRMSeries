@@ -15,10 +15,43 @@
 - [Recommended Reading](recommended_reading.html): Curated list of books and resources for real estate success.
 - [Full Book Content](ai-content/html/ai-text.html): Full book text in Markdown for automated tools and research.
 - [About](about.html): About the author.
-- [Contact](contact.html): Contact form for inquiries.
-- [Newsletter](newsletter.html): Subscribe to the newsletter.
-- [Privacy Policy](privacy.html): Our privacy policy.
-- [Terms of Service](terms.html): Our terms of service.
+
+## Chapters
+
+- [Mobile](ai-content/html/Mobile)
+- [01-dedication.html](ai-content/html/01-dedication.html)
+- [Mobile](ai-content/html/Mobile)
+- [02-acknowledgements.html](ai-content/html/02-acknowledgements.html)
+- [Mobile](ai-content/html/Mobile)
+- [03-introduction.html](ai-content/html/03-introduction.html)
+- [Mobile](ai-content/html/Mobile)
+- [04-building-a-real-estate-business.html](ai-content/html/04-building-a-real-estate-business.html)
+- [Mobile](ai-content/html/Mobile)
+- [05-building-trust-as-a-real-estate-agent.html](ai-content/html/05-building-trust-as-a-real-estate-agent.html)
+- [Mobile](ai-content/html/Mobile)
+- [06-real-estate-crm-features.html](ai-content/html/06-real-estate-crm-features.html)
+- [Mobile](ai-content/html/Mobile)
+- [07-engineering-your-habits-using-systems.html](ai-content/html/07-engineering-your-habits-using-systems.html)
+- [Mobile](ai-content/html/Mobile)
+- [08-working-your-database.html](ai-content/html/08-working-your-database.html)
+- [Mobile](ai-content/html/Mobile)
+- [09-filling-your-sales-pipeline-with-leads.html](ai-content/html/09-filling-your-sales-pipeline-with-leads.html)
+- [Mobile](ai-content/html/Mobile)
+- [10-proven-prospecting-methods.html](ai-content/html/10-proven-prospecting-methods.html)
+- [Mobile](ai-content/html/Mobile)
+- [11-stand-out-when-reaching-out.html](ai-content/html/11-stand-out-when-reaching-out.html)
+- [Mobile](ai-content/html/Mobile)
+- [12-conclusion.html](ai-content/html/12-conclusion.html)
+- [Mobile](ai-content/html/Mobile)
+- [13-further-reading.html](ai-content/html/13-further-reading.html)
+- [Mobile](ai-content/html/Mobile)
+- [14-about-the-author.html](ai-content/html/14-about-the-author.html)
+- [Mobile](ai-content/html/Mobile)
+- [README.html](ai-content/html/README.html)
+- [Mobile](ai-content/html/Mobile)
+- [ai-text.html](ai-content/html/ai-text.html)
+- [Mobile](ai-content/html/Mobile)
+- [license.html](ai-content/html/license.html)
 
 ## Downloads
 
