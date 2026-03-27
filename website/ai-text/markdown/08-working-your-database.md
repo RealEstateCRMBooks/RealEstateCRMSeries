@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMSecrets.com
 ---
 
-# Working Your Database
+# Chapter 8: Working Your Database
 
 > “Your database is your most important business asset and is the central nervous system of your business. If you don’t have a database, you are not serious about this career; you are a hobbyist.”
 >
@@ -118,7 +118,7 @@ I recommend using categories to identify which prospect records are cold leads b
 
 At the end of the year, **export** all your “Cold” records to create an archive copy, then delete them from your database. If you skip this cleanup, your prospects will become unwieldy and hard to manage. Some prospects may be so outdated that their information is no longer valid. Even the most optimistic agent should delete any prospect record that hasn't been contacted in 2 years or more. The chance that someone will remember you from a brief meeting 2 years ago is so low that you'd be better off prospecting strangers in a grocery store.
 
-### Endnotes
+## Endnotes
 
 [^15]: Jeb Blount’s *Fanatical Prospecting* book promotes a high-activity, “numbers game” philosophy of sales that emphasizes cold calling, in-person prospecting, and constant lead generation as the key to success. Kevin Ward shares similar prospecting-focused approaches as seen in his book *The Book of YES*. This idea is also in Ryan Serhant’s book *Sell It Like Serhant*. All three authors emphasize disciplined daily outreach and direct prospect contact as their primary drivers of business.
 [^16]: The typical database size for an experienced real estate agent is between 2,000 and 3,000 contacts based on statistics gathered by Realty Juggler Real Estate CRM, a real estate CRM vendor.

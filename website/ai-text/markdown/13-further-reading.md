@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMSecrets.com
 ---
 
-# Further Reading
+# Chapter 13: Further Reading
 
 This book, *Real Estate CRM Secrets*, focuses on the core systems a new agent needs to get organized, build consistent habits, and grow their business. I have also written a companion book, *Real Estate CRM Mastery*, designed for the experienced agent who has mastered these essentials and is ready to scale their production. It covers advanced strategies for managing time, automating marketing, and leading a team or an assistant. Together, these two books offer a complete, repeatable system for helping an agent become a top-producing real estate professional.
 

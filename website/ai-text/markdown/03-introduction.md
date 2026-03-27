@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMSecrets.com
 ---
 
-# Introduction
+# Chapter 3: Introduction
 
 In 1992, anthropologist Robin Dunbar famously suggested that humans could only manage about 150 meaningful relationships. However, some real estate agents can easily handle several thousand relationships without forgetting a name or which sports their clients’ children play. So, how do agents maintain that many connections? It’s not the agents themselves, but the tools they use. When an agent uses a real estate CRM, they can nurture thousands of genuine connections.
 

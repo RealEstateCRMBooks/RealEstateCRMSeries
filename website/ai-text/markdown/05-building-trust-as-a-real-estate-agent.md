@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMSecrets.com
 ---
 
-# Building Trust as a Real Estate Agent
+# Chapter 5: Building Trust as a Real Estate Agent
 
 > “Many factors go into how a person makes an integrity assessment. One of the more subtle, but nevertheless very real, factors is consistent congruence. It takes only one disconnect, whether it is a messy bathroom, a bad cup of coffee, or an employee with a bad attitude. Anything that might be perceived as inconsistent with the first-class quality you are trying to project will plant a seed of distrust. Once planted, this seed is difficult to weed out.”
 >
@@ -146,7 +146,7 @@ While these marketing efforts generate awareness and build goodwill, your real e
 
 Your CRM can help you manage the logistics of your promotional activities with task lists. You can use the calendar in your CRM to track the moving truck schedule. In many cases, you can also piggyback on the activities you do when promoting your listings to promote yourself at the same time. Most importantly, your CRM helps you track and follow up with the network of relationships you establish with local business owners, coaches, and community leaders. These marketing strategies build your reputation, and your CRM provides the structure to turn that reputation into a predictable and profitable pipeline of leads and deals.
 
-### Endnotes
+## Endnotes
 
 [^7]: The National Association of REALTORS 2024 Profile of Home Buyers and Sellers reports that home sellers in 2023 had lived in their home for a median of 10 years. This tenure has increased over the last decade, underscoring the importance of nurturing long-term relationships.
 

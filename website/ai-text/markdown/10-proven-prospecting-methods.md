@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMSecrets.com
 ---
 
-# Proven Prospecting Methods
+# Chapter 10: Proven Prospecting Methods
 
 > “The best ‘farm’ is a neighborhood where you already have or have had several listings. This gives you credibility. Otherwise, you’re simply another pretty face on a postcard.”
 >
@@ -214,7 +214,7 @@ Offering to host an open house can be a great opportunity for builders without a
 
 You should also build relationships with contractors who specialize in home improvements, such as finishing basements and remodeling. You might be working with a buyer looking to purchase a property that needs updates. Having a trusted general contractor on your side allows you to bring them in to help your buyer understand which improvements are practical and to provide a rough cost estimate. These partnerships can help you close a deal that might otherwise be overlooked and demonstrate your value as an agent who leverages vendor relationships to solve client problems.
 
-### Endnotes
+## Endnotes
 
 [^23]: The National Association of REALTORS, 2024 *Profile of Home Buyers and Sellers* (November 2024) report found that the median sales price for agent-assisted home sales was \$435,000, significantly higher than the \$380,000 median for For Sale By Owner (FSBO) transactions. This \$55,000 difference highlights the impact of professional pricing, marketing reach, and negotiation expertise.
 [^24]: According to National Association of REALTORS 2025 *Profile of Home Buyers and Sellers*, the most common challenges reported by FSBOs include getting the right price, understanding and performing the paperwork, and selling within the desired timeframe. An agent’s ability to solve these specific problems is their core value proposition.

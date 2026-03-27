@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMSecrets.com
 ---
 
-# Stand Out When Reaching Out
+# Chapter 11: Stand Out When Reaching Out
 
 > “Never wait to follow up. Follow up now. It’s one of my little tricks to get attention. No one follows up faster than I do. And when you want to set up that follow-up meeting, propose dates that work for you. Don’t just ask if they’re free—take control of the destiny of your working relationship!”
 >
@@ -220,7 +220,7 @@ Your call capture phone number can also be used for open houses and targeted mar
 
 The main advantage of using call capture is how easy it is for both you and the people inquiring about your listings.
 
-### Endnotes
+## Endnotes
 
 [^27]: The preference for text messaging over voice calls, especially among younger demographics, is well-documented. A Uswitch survey of 2,000 people found that nearly 70% of individuals aged 18 to 34 prefer a text to a phone call. This trend reinforces the strategy of using SMS as a primary and immediate communication channel for new leads, particularly those generated online, to increase contact rates.
 [^28]: In the United States, the Telephone Consumer Protection Act and FCC rules govern autodialers, prerecorded calls, consent, caller ID, abandoned call rates, and Do Not Call (DNC) compliance. Manual click-to-dial is treated differently from automated dialing.

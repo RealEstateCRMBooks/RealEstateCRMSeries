@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMSecrets.com
 ---
 
-# Building a Real Estate Business
+# Chapter 4: Building a Real Estate Business
 
 > “Forging new relationships makes the world go round. When you meet new people, you make connections that can lead to all kinds of future breakthroughs. Stop trying to “sell” people on using your services; rather, focus on forging a relationship and providing value to that relationship. Even when it’s uncomfortable, reach out and introduce yourself to new people… try knocking on 100 doors a day and simply say, “Hi, I’m Dave. I’m a broker with XYZ. I wanted to meet you face to face and wondered if you’d mind if I emailed you recent real estate activity on occasion?” The worst they can say is “no.” Fortunately, many won’t.”
 >
@@ -200,7 +200,7 @@ One excellent way to maintain a complete record of your transactions is to use y
 
 Your real estate CRM helps you systematize your real estate agent workflow. It allows you to organize and track your day so you never miss an appointment and convert leads in ways that maximize the likelihood they will become clients. Consistent follow-up is a key ingredient in this process, and using checklists and plans helps you stay on track.
 
-### Endnotes
+## Endnotes
 
 [^1]: Based on National Association of REALTORS’s 2024 Profile of Home Buyers and Sellers, 38% of home sellers used a referral from friends or family to choose their agent, while 28% used the same agent they had previously worked with., resulting in a combined 66% of sellers coming from an agent’s personal and prior client network.
 [^2]: In *The Millionaire Real Estate Agent* by Gary Keller, Dave Jenks, and Jay Papasan, the authors emphasize that many new agents leave the business within their first 2 years because they lack the financial reserves to bridge the gap between initial expenses and consistent income. This view is shared by industry coaches Tom Ferry and Brian Buffini, as well as by Inman reporting, all of which identify the lack of cash flow as the primary reason new agents leave the career.

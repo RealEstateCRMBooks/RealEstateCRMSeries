@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMSecrets.com
 ---
 
-# Conclusion
+# Chapter 12: Conclusion
 
 The main ideas of this book are straightforward. A real estate-specific CRM is not optional; it is the command center of your business. Generic CRMs lack key features found in real estate-specific CRMs. It is important to choose a CRM that is affordable and fully under your control. Ease of use and reliable support are more important than having many features. Over-automation can harm your relationships, so use your CRM to stay consistent while keeping every message personal.
 

@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMSecrets.com
 ---
 
-# Engineering Your Habits Using Systems
+# Chapter 7: Engineering Your Habits Using Systems
 
 > “Successful prospecting requires repeated and frequent time on task. Time on task makes you much more efficient and gets you much better results. You cannot increase your skill level if you don’t spend a substantial amount of time practicing and performing prospecting activities. Real estate is a numbers game. You must develop consistent habits and you must begin prospecting with high frequency to develop your skills and see steady and recurring results.”
 >
@@ -224,7 +224,7 @@ One of the best electronic filing cabinets you can use is Google Drive. It is an
 
 You can also share individual documents or entire folders with others, such as other agents, your client, the closing company, loan officers, and attorneys. Your real estate CRM can integrate with your Google Drive folder, so you can quickly access the documentation for each of your listings. Other online file storage platforms offer similar functionality. Dropbox and OneDrive are two examples of competing systems.
 
-### Endnotes
+## Endnotes
 
 [^12]: The term “habit stacking” was popularized by James Clear in his book *Atomic Habits*. The principle is to link a new desired habit with a current habit to increase the likelihood of success.
 [^13]: This approach is supported by *The Progress Principle* by Teresa Amabile at Harvard Business School, which finds that making progress in meaningful work, even in small steps, is a key motivator.

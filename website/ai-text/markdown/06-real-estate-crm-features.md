@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMSecrets.com
 ---
 
-# Real Estate CRM Features
+# Chapter 6: Real Estate CRM Features
 
 > “Seeing a For-Sale-By-Owner yard sign should evoke the same feelings you would get from seeing a blank check with your name on it. The potential with FSBOs is endless.”
 >
@@ -222,7 +222,7 @@ There is one type of newsletter that benefits everyone: a local real estate mark
 
 **WiseAgent**: A relatively affordable real estate CRM with a solid set of features, including lead generation, landing pages, transaction management, and a web app. Offers a free trial and phone support.
 
-### Endnotes
+## Endnotes
 
 [^8]: CRM industry research shows that many users employ only a limited range of the features available in their system. DemandSage reports that 43% of CRM users utilize fewer than half of their CRM’s capabilities.
 [^9]: According to the 2024 Profile of Home Buyers and Sellers from the National Association of REALTORS, 75% of all buyers interviewed only one real estate agent. This was true for 67% of first-time buyers and 77% of repeat buyers. This data underscores the “winner-take-all” nature of lead response: the first agent to make a professional connection and establish rapport is most likely to be hired for the job.

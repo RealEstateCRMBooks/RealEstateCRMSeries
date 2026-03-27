@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMSecrets.com
 ---
 
-# Filling Your Sales Pipeline with Leads
+# Chapter 9: Filling Your Sales Pipeline with Leads
 
 > “Farming is work. But, as I said before, what else are you going to do while you aren’t selling houses? I farmed.”
 >
@@ -262,7 +262,7 @@ The line between commercial and residential can sometimes be blurry. A typical s
 
 While there are commercial real estate-specific CRMs, it is not uncommon for commercial real estate agents to use a residential CRM. Residential CRMs are far more affordable and offer sufficient features to handle most commercial transactions.
 
-### Endnotes
+## Endnotes
 
 [^17]: Research from the sales intelligence firm Brevet found that 80% of sales required at least 5 follow-up calls, yet 44% of salespeople gave up after just one follow-up attempt, and 66% after two. This highlights a significant gap between the effort required to succeed and the typical agent’s lack of persistence.
 [^18]: The concept that each listing can be expected to produce at least one additional buyer-side closing originates from *The Millionaire Real Estate Agent* by Gary Keller, Dave Jenks, and Jay Papasan.

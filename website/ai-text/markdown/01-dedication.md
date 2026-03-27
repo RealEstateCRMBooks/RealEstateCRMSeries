@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMSecrets.com
 ---
 
-# Dedication
+# Chapter 1: Dedication
 
 To the more than 150,000 customers of Realty Juggler Real Estate CRM. Without your feedback, this book would not be possible.
 

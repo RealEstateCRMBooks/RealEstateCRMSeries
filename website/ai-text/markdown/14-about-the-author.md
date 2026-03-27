@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMSecrets.com
 ---
 
-# About the Author
+# Chapter 14: About the Author
 
 Scott Schmitz is a leading expert in real estate technology, specifically real estate CRM systems. He is the creator of the real estate CRM, Realty Juggler Real Estate CRM. With over 20 years of experience in the real estate technology industry, Scott has worked with more than 150,000 agents to improve their business systems and maximize their income through real estate technology.
 
