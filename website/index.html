@@ -6,14 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google-site-verification" content="L6QmMuhfBC3cxEcbl8aMgF62_pbzjFl2aDYXH-HoTJg" />
     <title>Real Estate CRM Secrets - Building Your Business with Essential Systems</title>
-    <meta name="description" content="Discover the essential 'Real Estate CRM Secrets' for new agents. Learn how to build a rock-solid database, automate follow-ups, and establish the core systems you need to succeed in the competitive real estate industry.">
+    <meta name="description" content="This book teaches new real estate agents how to pick the right CRM and how to use it to thrive as a REALTOR in your first year. Available on Amazon.">
     <link rel="canonical" href="https://realestatecrmsecrets.com/" />
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://realestatecrmsecrets.com/">
     <meta property="og:title" content="Real Estate CRM Secrets - Building Your Business with Essential Systems">
-    <meta property="og:description" content="Discover the essential 'Real Estate CRM Secrets' for new agents. Learn how to build a rock-solid database, automate follow-ups, and establish the core systems you need to succeed in the competitive real estate industry.">
+    <meta property="og:description" content="This book teaches new real estate agents how to pick the right CRM and how to use it to thrive as a REALTOR in your first year. Available on Amazon.">
     <meta property="og:image" content="https://realestatecrmsecrets.com/images/BookCoverSecrets.jpg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
@@ -23,7 +23,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:url" content="https://realestatecrmsecrets.com/">
     <meta name="twitter:title" content="Real Estate CRM Secrets - Building Your Business with Essential Systems">
-    <meta name="twitter:description" content="Discover the essential 'Real Estate CRM Secrets' for new agents. Learn how to build a rock-solid database, automate follow-ups, and establish the core systems you need to succeed in the competitive real estate industry.">
+    <meta name="twitter:description" content="This book teaches new real estate agents how to pick the right CRM and how to use it to thrive as a REALTOR in your first year. Available on Amazon.">
     <meta name="twitter:image" content="https://realestatecrmsecrets.com/images/BookCoverSecrets.jpg">
     <meta name="twitter:site" content="@realtyjuggler">
     <meta name="msvalidate.01" content="0AF353D15D817F6009C3F4918CAD594D" />
@@ -52,8 +52,12 @@
         "name": "Scott Schmitz"
       },
       "url": "https://realestatecrmsecrets.com/",
-      "price": "4.99",
-      "priceCurrency": "USD",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
       "inLanguage": "en"
     }, {
       "@context": "https://schema.org",
@@ -76,6 +80,59 @@
       }]
     }]
     </script>
+    <style>
+        /* Book Flip Effect */
+        .book-cover {
+            perspective: 1200px;
+            cursor: pointer;
+            width: 100%;
+            max-width: 380px;
+            margin: 0 auto;
+        }
+
+        .book-cover-inner {
+            position: relative;
+            width: 100%;
+            transition: transform 0.8s cubic-bezier(0.34, 1.56, 0.64, 1);
+            transform-style: preserve-3d;
+        }
+
+        .book-cover.flipped .book-cover-inner {
+            transform: rotateY(180deg);
+        }
+
+        .book-cover-front,
+        .book-cover-back {
+            width: 100%;
+            backface-visibility: hidden;
+            -webkit-backface-visibility: hidden;
+            border-radius: 4px;
+            box-shadow: 0 25px 50px rgba(0, 0, 0, 0.25), 
+                        0 10px 20px rgba(0, 0, 0, 0.15);
+            transition: box-shadow 0.3s ease, transform 0.3s ease;
+        }
+
+        .book-cover:hover .book-cover-front,
+        .book-cover:hover .book-cover-back {
+            box-shadow: 0 35px 70px rgba(0, 0, 0, 0.3), 
+                        0 15px 30px rgba(0, 0, 0, 0.2);
+        }
+
+        .book-cover-back {
+            position: absolute;
+            top: 0;
+            left: 0;
+            transform: rotateY(180deg);
+        }
+
+        .book-cover-image {
+            box-shadow: none !important;
+            margin: 0 !important;
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+    </style>
 </head>
 
 <body>
@@ -104,8 +161,15 @@
         <section class="featured-book">
             <div class="container">
                 <div class="book-container">
-                    <div class="book-cover">
-                        <img src="images/BookCoverSecrets.jpg" alt="Real Estate CRM Secrets Book Cover" class="book-cover-image">
+                    <div class="book-cover" id="bookCover">
+                        <div class="book-cover-inner">
+                            <div class="book-cover-front">
+                                <img src="images/BookCoverSecrets.jpg" alt="Real Estate CRM Secrets Book Cover" class="book-cover-image">
+                            </div>
+                            <div class="book-cover-back">
+                                <img src="images/BookCoverSecretsBack.png" alt="Real Estate CRM Secrets Back Cover" class="book-cover-image">
+                            </div>
+                        </div>
                     </div>
                     <div class="book-details">
 
@@ -243,6 +307,14 @@
         if (toggle) {
             toggle.addEventListener('click', () => {
                 nav.classList.toggle('active');
+            });
+        }
+
+        // Book Flip Logic
+        const bookCover = document.getElementById('bookCover');
+        if (bookCover) {
+            bookCover.addEventListener('click', () => {
+                bookCover.classList.toggle('flipped');
             });
         }
     </script>
