@@ -30,13 +30,17 @@
     <meta name="twitter:image" content="https://realestatecrmsecrets.com/images/SecretsBookCoverFrontDivot.png">
     <meta name="twitter:site" content="@realtyjuggler">
     <meta name="msvalidate.01" content="0AF353D15D817F6009C3F4918CAD594D" />
-    <link rel="stylesheet" href="css/style.css">
+    <!-- Defer main stylesheet to avoid render-blocking -->
+    <link rel="stylesheet" href="css/style.css" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="css/style.css"></noscript>
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <!-- Defer Google Fonts to avoid network-chain render-blocking -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
         href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap"
-        rel="stylesheet">
+        rel="stylesheet" media="print" onload="this.media='all'">
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap" rel="stylesheet"></noscript>
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -169,7 +173,7 @@
                         <div class="book-cover-inner">
                             <div class="book-cover-front">
                                 <img src="images/SecretsBookCoverFrontDivot.png"
-                                    alt="Real Estate CRM Secrets Book Cover" class="book-cover-image" width="1151" height="1652">
+                                    alt="Real Estate CRM Secrets Book Cover" class="book-cover-image" width="1151" height="1652" fetchpriority="high">
                             </div>
                             <div class="book-cover-back">
                                 <img src="images/SecretsBookCoverBackDivot.png" alt="Real Estate CRM Secrets Back Cover"
