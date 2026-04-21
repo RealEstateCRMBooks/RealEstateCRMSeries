@@ -34,13 +34,14 @@
     <link rel="stylesheet" href="css/style.css" media="print" onload="this.media='all'">
     <noscript><link rel="stylesheet" href="css/style.css"></noscript>
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
-    <!-- Defer Google Fonts to avoid network-chain render-blocking -->
+    <!-- Google Fonts: preconnect + preload critical weights to prevent font-swap CLS -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- display=optional: browser uses fallback if font isn't ready, preventing reflow -->
     <link
-        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=optional"
         rel="stylesheet" media="print" onload="this.media='all'">
-    <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap" rel="stylesheet"></noscript>
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=optional" rel="stylesheet"></noscript>
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -139,6 +140,8 @@
             display: block;
             width: 100%;
             height: auto;
+            /* Reserve vertical space before the image loads to prevent CLS */
+            aspect-ratio: 1151 / 1652;
         }
     </style>
 </head>
