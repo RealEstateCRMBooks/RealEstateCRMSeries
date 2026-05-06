@@ -16,7 +16,7 @@ Top agents rely on systems, not luck. Spend time each day prospecting. Start wit
 
 I have also written a companion book, *Real Estate CRM Mastery,* which covers advanced topics such as growing your business, long-term lead-nurturing strategies, and generating repeat and referral clients from your sphere of influence.
 
-If you have any further questions about CRMs or real estate technology, please contact me via my website at: https://realestatecrmsecrets.com
+If you have any further questions about CRMs or real estate technology, please contact me via my website at: RealEstateCRMSecrets.com.
 
 ---
 
