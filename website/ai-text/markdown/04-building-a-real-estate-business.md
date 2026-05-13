@@ -10,7 +10,7 @@ website: realEstateCRMSecrets.com
 
 > “Forging new relationships makes the world go round. When you meet new people, you make connections that can lead to all kinds of future breakthroughs. Stop trying to “sell” people on using your services; rather, focus on forging a relationship and providing value to that relationship. Even when it’s uncomfortable, reach out and introduce yourself to new people… try knocking on 100 doors a day and simply say, “Hi, I’m Dave. I’m a broker with XYZ. I wanted to meet you face to face and wondered if you’d mind if I emailed you recent real estate activity on occasion?” The worst they can say is “no.” Fortunately, many won’t.”
 >
-> — Dave Crumby, Lani Rosales, Martin Streicher: *REAL*
+> — Dave Crumby, Lani Rosales, Martin Streicher: *REAL: A Path to Passion Purpose, and Profits in Real Estate*
 
 Being a real estate agent can be a highly rewarding career. You help someone find their dream home. Seeing that look on their face when you hand them the keys at closing is priceless. If you do your job right, your client won’t even realize how tough the process was or how many times the deal nearly fell apart. Making the process of buying and selling a home smooth is why you get paid.
 
